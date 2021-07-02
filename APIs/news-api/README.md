@@ -2,18 +2,18 @@
 
 ## API Documentation
 ```
-BASE_URL = "https://saurav.tech/NewsAPI/"
+BASE_URL = "https://developers.trendbrains.com/APIs/news-api/"
 top_headlines_api = "<BASE_URL>/top-headlines/category/<category>/<country_code>.json"
 everything_api = "<BASE_URL>/everything/<source_id>.json"
 ```
 Detailed documentation: [Postman Documentation](https://documenter.getpostman.com/view/3479169/Szf7zncp?version=latest)
 
 ## Example 
--   [https://saurav.tech/NewsAPI/top-headlines/category/health/in.json](https://saurav.tech/NewsAPI/top-headlines/category/health/in.json)
--   [https://saurav.tech/NewsAPI/everything/cnn.json](https://saurav.tech/NewsAPI/everything/cnn.json)
--   [https://saurav.tech/NewsAPI/sources.json](https://saurav.tech/NewsAPI/sources.json)
+-   [https://developers.trendbrains.com/APIs/news-api/top-headlines/category/health/in.json](https://saurav.tech/NewsAPI/top-headlines/category/health/in.json)
+-   [https://developers.trendbrains.com/APIs/news-api/everything/cnn.json](https://saurav.tech/NewsAPI/everything/cnn.json)
+-   [https://developers.trendbrains.com/APIs/news-api/sources.json](https://saurav.tech/NewsAPI/sources.json)
 ```shell script
-curl --request GET 'https://saurav.tech/NewsAPI/top-headlines/category/health/in.json'
+curl --request GET 'https://developers.trendbrains.com/APIs/news-api/top-headlines/category/health/in.json'
 ```
 
 ```
