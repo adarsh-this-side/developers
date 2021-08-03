@@ -1,4 +1,4 @@
-{"Recipes":[
+[
   { "image": "https://www.bing.com/th?id=ATOOL5A6AAF31B20BAAA659E1CFC5C053911AB2B028C41F095FD9BC36C34D0CC9E08D&w=296&h=176&c=13&rs=2&o=6&dpr=1.46&pid=SANGAM",
     "title": "Jalebi",
     "description": "Jaledbi bai banaye gi jalebi"
@@ -10,4 +10,4 @@
   { "image": "https://www.bing.com/th?id=ATOOL0D5ED8AAF441E448B99F9C65FF59495C0A3B59943580D458A5687F1A991BF5BD&w=296&h=176&c=1&rs=2&o=6&dpr=1.46&pid=SANGAM",
     "title": "Malai",
     "description": "Malai bai banaye gi jalebi"
-  }]}
+  }]
