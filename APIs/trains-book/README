@@ -1,9 +1,13 @@
 -----------------------
-Discover Image Size : 
+Discover Banner Size : 
 height = 280px,
 weight = 200px,
 -----------------------
-Best Offers Size :
+Offers Banner Size :
 height = 180px,
 weight = 300px
+-----------------------
+Services Banner Size :
+height = 180px,
+weight = 360px
 -----------------------
