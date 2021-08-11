@@ -1,1 +1,9 @@
+# Note Point (Read Carefully)
 
+brand_icon size :-
+height = 80px
+weight = 80px
+
+brand_banner size :-
+height = 180px
+weight = 300px
