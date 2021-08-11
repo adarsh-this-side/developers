@@ -1,1 +1,10 @@
+thumbnail size:- 
+height - 280px
+weight - 200 px
+example = https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_280,r_14,w_200/v1628488272/Bus_Book/example.png
+
+images_one size:-
+height - 200px
+weight - 320 px
+example = https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_200,r_14,w_320/v1628488272/Bus_Book/example.png
 
