@@ -1,4 +1,10 @@
 # Note Point (Read Carefully)
+1. No. of offers banner = 6;
+2. Offers banner = nullable;
+3. Right method example = https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628488272/Bus_Book/example.png
+4. Don't use = https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_200,r_14,w_320/v1628488272/Bus_Book/example.png
+5. Change size on figma and upload in cloudinary
+6. Change only made using https://codebeautify.org/jsonviewer
 
 brand_icon size :-
 height = 80px
@@ -8,3 +14,5 @@ corner round = r_14
 brand_banner size :-
 height = 180px
 weight = 300px
+corner round = r_14
+
