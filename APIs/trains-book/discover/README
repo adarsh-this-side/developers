@@ -1,5 +1,5 @@
 # Note Points (Read before made any changes )
-- Discover Images = 6;
+- Max No. of discover Images = 6;
 - Discover Images = nullable;
 - Right method example = https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628488272/Bus_Book/example.png
 - Don't use = https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_200,r_14,w_320/v1628488272/Bus_Book/example.png
