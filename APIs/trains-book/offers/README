@@ -3,6 +3,7 @@
 brand_icon size :-
 height = 80px
 weight = 80px
+corner round = r_14
 
 brand_banner size :-
 height = 180px
