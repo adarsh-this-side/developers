@@ -9,7 +9,9 @@
 thumbnail size:
 height - 280px
 weight - 200 px
+corner round - r_14
 
 images_one & images_two size:-
 height - 200px
 weight - 320px
+corner round - r_14
