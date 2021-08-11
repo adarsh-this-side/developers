@@ -1,2 +1,2 @@
 Trains = https://developers.trendbrains.com/APIs/trains-book/services/trains-service.json
-Bus = Trains = https://developers.trendbrains.com/APIs/trains-book/services/bus-service.json
+Bus = Trains = https://developers.trendbrains.com/APIs/trains-book/services/cabs-service.json
