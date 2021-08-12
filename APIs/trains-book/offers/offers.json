@@ -1,17 +1,17 @@
 [
  {
-  "brand_icon":"",
-  "brand_banner":"" ,
-  "link":""
+  "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/r_18/v1628748955/Bus_Book/offers/Rectangle_6_zoqgll.png",
+  "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628748797/Bus_Book/offers/Qureka.png" ,
+  "link":"https://www.qurekalite.com/"
 },
   {
   "brand_icon":"",
-  "brand_banner":"" ,
-  "link":""
+  "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628748489/Bus_Book/offers/01.png" ,
+  "link":"https://res.cloudinary.com/"
 },
   {
   "brand_icon":"",
-  "brand_banner":"" ,
-  "link":""
+  "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628748489/Bus_Book/offers/01.png" ,
+  "link":"https://res.cloudinary.com/"
 }
 ]
