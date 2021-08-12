@@ -2,31 +2,37 @@
  {
   "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_100,r_18,w_100/v1628748955/Bus_Book/offers/Rectangle_6_zoqgll.png",
   "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628748797/Bus_Book/offers/Qureka.png" ,
-  "link":"https://www.qurekalite.com/"
+  "link":"https://www.qurekalite.com/",
+  "javascript":""
 },
   {
   "brand_icon":"",
   "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628748489/Bus_Book/offers/01.png" ,
-  "link":"https://res.cloudinary.com/"
+  "link":"https://res.cloudinary.com/",
+  "javascript":""
 },
   {
   "brand_icon":"",
   "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_200,r_14,w_320/v1628748489/Bus_Book/offers/01.png" ,
-  "link":"https://res.cloudinary.com/"
+  "link":"https://res.cloudinary.com/",
+  "javascript":""
 },
   {
   "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_100,r_18,w_100/v1628748955/Bus_Book/offers/Rectangle_6_zoqgll.png",
   "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628748797/Bus_Book/offers/Qureka.png" ,
-  "link":"https://www.qurekalite.com/"
+  "link":"https://www.qurekalite.com/",
+  "javascript":""
 },
   {
   "brand_icon":"",
   "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/r_14/v1628748489/Bus_Book/offers/01.png" ,
-  "link":"https://res.cloudinary.com/"
+  "link":"https://res.cloudinary.com/",
+  "javascript":""
 },
   {
   "brand_icon":"",
   "brand_banner":"https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_200,r_14,w_320/v1628748489/Bus_Book/offers/01.png" ,
-  "link":"https://res.cloudinary.com/"
+  "link":"https://res.cloudinary.com/",
+  "javascript":""
 }
 ]
