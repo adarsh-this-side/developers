@@ -8,7 +8,7 @@
     "video_id": "oDnMD2dMJls",
     "brand_icon": "",
     "link": "",
-    "adhosts": ""
+    "javascript": ""
   },
   {
     "title": "Example 02",
@@ -19,7 +19,7 @@
     "video_id": "oDnMD2dMJls",
     "brand_icon": "",
     "link": "",
-    "adhosts": ""
+    "javascript": ""
   },
   {
     "title": "Example 03",
@@ -30,7 +30,7 @@
     "video_id": "",
     "brand_icon": "",
     "link": "",
-    "adhosts": ""
+    "javascript": ""
   },
   {
     "title": "Example 04",
@@ -41,7 +41,7 @@
     "video_id": "",
     "brand_icon": "",
     "link": "",
-    "adhosts": ""
+    "javascript": ""
   },
   {
     "title": "Example 05",
@@ -52,7 +52,7 @@
     "images_three": "",
     "brand_icon": "",
     "link": "",
-    "adhosts": ""
+    "javascript": ""
   },
   {
     "title": "Example 06",
@@ -63,6 +63,6 @@
     "images_three": "",
     "brand_icon": "",
     "link": "",
-    "adhosts": ""
+    "javascript": ""
   }
 ]
