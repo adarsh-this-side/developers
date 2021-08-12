@@ -3,18 +3,21 @@
   "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_100,r_18,w_100/v1628699099/Bus_Book/Confirmtkt.webp",
   "brand_name":"Confirmtkt",
   "brand_tagline":"IRCTC train ticket booking",
-  "link":"https://www.confirmtkt.com"
+  "link":"https://www.confirmtkt.com",
+  "adhosts":"confirmtkt.com"
 },
   {
   "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_100,r_18,w_100/v1628699581/Bus_Book/ixigo.webp",
   "brand_name":"ixigo",
   "brand_tagline":"Book train tickets",
-  "link":"https://www.ixigo.com"
+  "link":"https://www.ixigo.com",
+  "adhosts":"ixigo.com"
 },
   {
   "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_100,r_18,w_100/v1628699781/Bus_Book/RailYatri.png",
   "brand_name":"RailYatri",
   "brand_tagline":"Book ticket anywhere",
-  "link":"https://www.railyatri.in/"
+  "link":"https://www.railyatri.in/",
+  "adhosts":"railyatri.in"
 }
 ]
