@@ -9,8 +9,8 @@ Open- https://developers.trendbrains.com/APIs/trains-book/offers/offers.json
 6. Change only made using https://codebeautify.org/jsonviewer
 
 brand_icon size :-
-height = 80px
-weight = 80px
+height = 100px
+weight = 100px
 corner round = r_18
 
 brand_banner size :-
