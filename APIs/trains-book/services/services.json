@@ -32,17 +32,17 @@
   ],
   "hotels": [
     {
+      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/v1630527101/train-book/services/OYO.png",
+      "brand_name": "OYO Rooms",
+      "brand_tagline": "World's leading chain of hotels",
+      "link": "https://www.oyorooms.com/?utm_medium=2792&utm_source=Social_O_web",
+      "javascript": ""
+    },
+    {
       "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/r_22/v1630526367/train-book/services/Booking.com.png",
       "brand_name": "Booking.com",
       "brand_tagline": "Find hotel for your next trip",
       "link": "https://www.booking.com/",
-      "javascript": ""
-    },
-    {
-      "brand_icon": "",
-      "brand_name": "",
-      "brand_tagline": "",
-      "link": "",
       "javascript": ""
     },
     {
