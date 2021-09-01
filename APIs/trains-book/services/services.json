@@ -32,68 +32,92 @@
   ],
   "hotels": [
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/r_22/v1630526367/train-book/services/Booking.com.png",
+      "brand_name": "Booking.com",
+      "brand_tagline": "Find hotel for your next trip",
+      "link": "https://www.booking.com/",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
-    },
-    {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     }
   ],
   "cabs": [
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
-    },
-    {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     }
   ],
   "packages": [
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     },
     {
-      "thumbnail": "",
-      "link": ""
-    },
-    {
-      "thumbnail": "",
-      "link": ""
+      "brand_icon": "",
+      "brand_name": "",
+      "brand_tagline": "",
+      "link": "",
+      "javascript": ""
     }
   ]
 }
