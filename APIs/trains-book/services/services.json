@@ -46,17 +46,17 @@
       "javascript": ""
     },
     {
-      "brand_icon": "",
-      "brand_name": "",
-      "brand_tagline": "",
-      "link": "",
+      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/r_18/v1630527939/train-book/services/Hotels.com.png",
+      "brand_name": "Hotels.com",
+      "brand_tagline": "Travel with confidence",
+      "link": "hotels.com",
       "javascript": ""
     },
     {
-      "brand_icon": "",
-      "brand_name": "",
-      "brand_tagline": "",
-      "link": "",
+      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/v1630528231/train-book/services/airbnb.png",
+      "brand_name": "Airbnb",
+      "brand_tagline": "Places to stay",
+      "link": "https://www.airbnb.co.in/",
       "javascript": ""
     }
   ],
