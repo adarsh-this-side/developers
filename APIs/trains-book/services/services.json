@@ -53,7 +53,7 @@
       "javascript": ""
     }
   ],
-  "cabs": [
+  "flights": [
     {
       "brand_icon": "",
       "brand_name": "",
@@ -83,7 +83,7 @@
       "javascript": ""
     }
   ],
-  "packages": [
+  "buses": [
     {
       "brand_icon": "",
       "brand_name": "",
