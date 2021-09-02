@@ -1,28 +1,28 @@
 {
   "trains": [
     {
-      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/r_18/v1628699099/train-book/services/Confirmtkt.webp",
+      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/v1628699099/train-book/services/Confirmtkt.webp",
       "brand_name": "Confirmtkt",
       "brand_tagline": "IRCTC train ticket booking",
       "link": "https://www.confirmtkt.com/rbooking/",
       "javascript": ""
     },
     {
-      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/r_18/v1628699581/train-book/services/ixigo.webp",
+      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/v1628699581/train-book/services/ixigo.webp",
       "brand_name": "ixigo",
       "brand_tagline": "Book train tickets",
       "link": "https://www.ixigo.com",
       "javascript": ""
     },
     {
-      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/r_18/v1628699781/train-book/services/RailYatri.png",
+      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/v1628699781/train-book/services/RailYatri.png",
       "brand_name": "RailYatri",
       "brand_tagline": "Book ticket anywhere",
       "link": "https://www.railyatri.in/",
       "javascript": ""
     },
     {
-      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/r_18/v1630527472/train-book/services/EasyMyTrip.png",
+      "brand_icon": "https://res.cloudinary.com/trendbrains/image/upload/v1630527472/train-book/services/EasyMyTrip.png",
       "brand_name": "EaseMyTrip",
       "brand_tagline": "Book train ticket easily",
       "link": "https://www.easemytrip.com/railways/",
