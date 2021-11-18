@@ -1,51 +1,87 @@
 [
-  { "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228346/travel/explore/Manali.jpg",
-    "image": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228346/travel/explore/Manali.jpg",
-    "title": "Manali Tourism",
-    "description": "One of the most popular hill stations in Himachal, Manali offers the most magnificent views of the Pir Panjal and the Dhauladhar ranges covered with snow for most parts of the year. With the Covid-19 pandemic going on, Manali has evolved to be a place loved by young people looking for longer stays for workation. With ambient cafes, good wifi availability, small eateries and convenient shops, Old Manali is among the favorite neighbourhood for such people. There are many homestays and hostels offering dorm beds for cheap for longer durations. Manali has many trekking options around it, making it a great base for exploring this side of Himalayas. River Beas provides great rafting options in the nearby town of Kullu. Adjoining Parvati river, lies the Parvati Valley with  Kasol, Manikaran, Tosh and small villages attracting travellers for longer stays. Atal Tunnel now allows travellers to reach Sissu within a few hours making Spiti way more accessible. It snows the most in the months of January & February followed by December and March. If you're very lucky, you might find some snow in April. Tourists flock to Rohtang Pass & Solang valley for various adventure activities including skiing, paragliding, horse-riding & zorbing. Rohtang Pass is almost always covered with snow and can often get overcrowded and see traffic jams.",
-    "location": "Himachal Pradesh, India",
-    "star": "4.5"
+  { "image": "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Varanasi_1.webp",
+    "title": "The Holy City of Varanasi",
+    "description": "A major pilgrimage center for Hindus, the holy city of Varanasi has long been associated with the mighty Ganges River, one of the faith's most important religious symbols. Dating back to the 8th century BC, Varanasi is one of the oldest still inhabited cities in the world. It offers many reasons to visit, not least of them the chance to explore the Old Quarter adjacent to the Ganges where you'll find the Kashi Vishwanath Temple, built in 1780 (the New Vishwanath Temple with its seven separate temples is also of interest). Bathing in the Ganges is of great importance to Hindus, and numerous locations known as 'ghats' feature stairways leading to the water where the faithful bathe before prayers. All told, Varanasi boasts more than 100 ghats, the largest being Dasashvamedh Ghat and Assi Ghat (the latter, at the confluence of the Ganges and Asi rivers, is considered particularly holy). Also worth seeing is Banaras Hindu University, established in 1917 and noted for its massive library with more than a million books, and the superb Bharat Kala Bhavan museum featuring fine collections of miniature paintings, sculptures, palm-leaf manuscripts, and local history exhibits.",
+    "location": "Varanasi",
+    "star": "5.0",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Varanasi_1.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Varanasi_2.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Varanasi_3.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Varanasi_4.webp"
+    ]
   },
-  { "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228369/travel/explore/Leh_Ladakh.jpg",
-    "image": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228369/travel/explore/Leh_Ladakh.jpg",
-    "title": "Leh Ladakh",
-    "description": "Stunning Gompas (Tibetan Buddhist monasteries), fluttering prayer flags, whitewashed stupas, Ladakh is a riot of intricate murals and red-robed monks. Dominated by dramatic landscapes, Ladakh is known as the world's coldest desert.  It is said that only in Ladakh can a man sitting in the sun with his feet in the shade suffer from sunstroke and frostbite at the same time. With a culture similar to Tibetan culture, the people of Ladakh are friendly and welcoming to tourists. Ladakh is a union territory in the Kashmir region of India. Formerly falling in the state of Jammu & Kashmir, Ladakh was administered a union territory on 31st October 2019. Extending from the Siachen Glacier to the main Great Himalayas, Ladakh is a land like no other. Ladakh is an adventure playground for climbing, jeeps tours, rafting and high-altitude trekking. Note that Leh Ladakh is inaccessible by road outside the summer months. The road passes close altogether from around October to May, and the only way to reach left is by air. For those of us living in the constant confusion about the difference between these twin locations, Leh-Ladakh, here is something that might help you. Ladakh is divided into two districts: district Leh, and district Kargil. The former district has a popular town “Leh” and is a great tourist attraction because of its beautiful monasteries, picturesque locations, and interesting markets defining the culture of the place.",
-    "location": "Union Territory, India",
-    "star": "4.6"
+  { "image": "https://media.istockphoto.com/photos/india-gate-in-new-dehli-at-dusk-picture-id481498495?b=1&k=20&m=481498495&s=170667a&w=0&h=8ZAyunChLYs-GACyLTnh5zuMMlKGxBequYQ6Dny2J68=",
+    "title": "The Gateway of India",
+    "description": "Standing an impressive 26 meters tall and overlooking the Arabian Sea, the iconic Gateway of India is a must-see when in Mumbai. Built to commemorate the arrival of King George V and his wife Queen Mary in 1911, this stunning piece of architecture was opened with much pomp and ceremony in 1924 and was, for a while, the tallest structure in the city.Constructed entirely of yellow basalt and concrete and notable for its Indo-Saracenic design, the Gateway of India was also the scene of a rather less jubilant procession of British soldiers in 1948 when India gained its independence. These days, the huge archway provides a stunning backdrop that is as popular among locals as it is tourists.",
+    "location": "Mumbai",
+    "star": "4.6",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Gateway_of_India_1.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Gateway_of_India_2.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Gateway_of_India_3.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Gateway_of_India_4.webp"
+    ]
   },
-  { "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228376/travel/explore/Coorg.jpg",
-    "image": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228376/travel/explore/Coorg.jpg",
-    "title": "Coorg",
-    "description": "Located amidst imposing mountains in Karnataka with a perpetually misty landscape, Coorg is a popular coffee producing hill station. It is popular for its beautiful green hills and the streams cutting right through them. It also stands as a popular destination because of its culture and people. The Kodavas, a local clan specializing in martial arts, are especially notable for their keen hospitality. Coorg, officially known as Kodagu, is the most affluent hill station in Karnataka. It is well known for its breathtakingly exotic scenery and lush greenery. Forest covered hills, spice and coffee plantations only add to the landscape. Madikeri is the region's centre point with all transportation for getting around starting from here. On a visit to Coorg, cover the beautiful towns like Virajpet, Kushalnagar, Gonikoppal, Pollibetta, and Somwarpet, and experience the beautiful concept of 'homestays' to make your experience more memorable! ",
-    "location": "Karnataka, India",
-    "star": "4.2"
+  { "image": "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Amer_Fort_Jaipur_-1.webp",
+    "title": "Amer Fort",
+    "description": "Amer Fort (often also spelt 'Amber') was built as a fortified palace in 1592 by Maharaja Man Singh I and has long served as the capital of Jaipur. Carved high up into the hillside, the fort is accessible on foot via a steep climb or by shuttle rides from the town below (better still, let an elephant do the work). Highlights include Jaleb Chowk, the first courtyard, with its many decorated elephants, and the Shila Devi Temple, dedicated to the goddess of war. Also of note is the adjoining Hall of Public Audience (Diwan-i-Am) with its finely decorated walls and terraces frequented by monkeys. Other highlights include Sukh Niwas (the Hall of Pleasure) with its many flowerbeds and a channel once used to carry cooling water, and the Temple of Victory (Jai Mandir), notable for its many decorative panels, colorful ceilings, and excellent views over the palace and the lake below. Just above Amer Fort is Jaigarh Fort, built in 1726 by Jai Singh and featuring tall lookout towers, formidable walls, and the world's largest wheeled cannon. Be sure to also spend time wandering the walled Old City of Jaipur with its three fully restored gates and splendid bazaars, as well as the delightful City Palace, a massive complex of courtyards, gardens, and buildings.",
+    "location": "Jaipur",
+    "star": "4.6",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Amer_Fort_Jaipur_-1.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Amer_Fort_Jaipur_-2.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Amer_Fort_Jaipur_-3.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Amer_Fort_Jaipur_-4.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518876/travel/discover/Amer_Fort_Jaipur_-5.webp"
+    ]
   },
-  { "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228367/travel/explore/Andaman.jpg",
-    "image": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228367/travel/explore/Andaman.jpg",
-    "title": "Andaman",
-    "description": "Replete with turquoise blue water beaches and a bit of history, Andaman & Nicobar Islands is a little slice of paradise tucked around 1,400 km away from the east coast of India. Port Blair, the capital has a major airport and seaport and is connected with the rest of the country and with various tourist islands via multiple daily ferries. Havelock and Neil Islands are popular among tourists for their white sandy beaches and great diving options. The union territory of Andaman & Nicobar Islands comprises a total of 572 islands, only 37 of which are inhabited and a few are open to tourists. Havelock Island is one of the largest and the most popular islands of all of the Andaman & Nicobar Islands. Travelers typically spend multiple nights in Havelock and Neil Islands that offer some great resorts. Port Blair is generally used as a base city to catch ferries to nearby islands. However, tourists also spend a day or two here to explore the town and nearby beaches. People also take day trips to Ross Island and North Bay Island or to Jolly Buoy island from Port Blair. ",
-    "location": "Union Territory, India",
-    "star": "4.5"
+  { "image": "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Periyar_National_Park_1.webp",
+    "title": "Periyar National Park and Wildlife Sanctuary",
+    "description": "One of South India's most popular tourist attractions, Periyar National Park and Wildlife Sanctuary is centered around a lake built by British engineers in 1895 for irrigation and to provide water to the city of Madurai. Established in 1934, this beautiful park is home to numerous species of mammals, including a large free-roaming Indian elephant population, wild boar, otters, the lion-tailed macaque, and more than 20 Bengal tigers. Bird watching is a popular activity with frequent sightings of species such as darters, storks, kingfishers, hornbills, and racket-tailed drongos, along with many interesting varieties of butterflies. The best ways to enjoy the park's splendid mountain scenery are to take a lake cruise or guided jungle walk, the latter allowing visitors a chance to come face to face with elephant herds and observe other wildlife from watchtowers and viewing platforms",
+    "location": "Madurai",
+    "star": "4.3",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Periyar_National_Park_1.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Periyar_National_Park_2.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Periyar_National_Park_3.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Periyar_National_Park_4.webp"
+    ]
   },
-  { "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228377/travel/explore/Goa.jpg",
-    "image": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228377/travel/explore/Goa.jpg",
-    "title": "Goa",
-    "description": "Lying on the western coast, Goa is India's smallest state and unlike any other, known for its endless beaches, stellar nightlife, eclectic seafood, world-heritage listed architecture. Spread across just 3,702 km, Goa lies in the Konkan region. It is a far cry from the hippie haven or a beach getaway, and one of the only few destinations that is open 24x7. The laid-backness (susegad) of Goa attracts as many international tourists as it does Indians, or even more so. The Goans are quite friendly towards tourists and celebrate many festivals throughout the year, the most famous being the New Year and Goa Carnival. While the seafood is excellent, Goa has one of the best nightlife in India with trendy bars, beach shacks, elegant cafes and many clubs and discotheques. Thanks to lower alcohol prices in the state, Goa is also great for younger tourists with relatively tighter pockets. For those of us perpetually confused between North Goa and South Goa, this might help - the state of Goa is divided into North Goa and South Goa. While North Goa is the nightlife hub where all the touristy beaches, flea markets, and beach shacks are located, South Goa is the land of luxurious resorts and laid-back beach vibes. Having been a Portuguese territory for almost 450 years, the Portuguese architecture is nowhere as prevalent as in Goa - visit one of the many whitewashed churches, crumbling forts or spectacular churches. The yellow houses with purple doors, ochre coloured mansions and oyester shell windows is what completes the kalieodscope of Goan architecture. Panjim, the capital city located in the centre overlooks the calm Mandovi River where the famous floating casinos of Goa are docked. The centre is well-connected with an international airport and roads and trains run from North to South part of Goa. With a coastline stretching for over 100 kilometres, Goa has stunning beaches. While Baga and Calangute are more popular among the Indian family crowd, Anjuna and Arambol draw a lot of foreign tourists. The beaches in South Goa are relatively lesser explored, but some of them like Agonda and Palolem are more beautiful.",
-    "location": "India",
-    "star": "4.5"
+{ "image": "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Agra_Fort_1.webp",
+    "title": "Red Fort",
+    "description": "Built as a military structure in 1565 by Emperor Akbar with later additions by Shah Jahan, the stunning Agra Fort (also known as Agra's Red Fort) is an interesting mix of both Hindu and Muslim influences. Located a little more than two kilometers from the Taj Mahal, the fort is entered through Amar Singh Gate with its low outer wall and dogleg design built to confuse attackers. Once inside, you'll see two large interlinked sandstone buildings, Akbari Mahal and Jahangiri Mahal, the largest private residence in the complex. Other highlights include the Khas Mahal (Private Palace), with its splendid copper roof, and the Anguri Bagh (Grape Garden), a jigsaw-patterned Mughal garden with numerous wonderful fountains and water channels as well as screens that once offered a private area for the emperor and his entourage. Also of note is the octagonal Musamman Burj tower, which later served as Shah Jahan's prison until his death.",
+    "location": "Agra",
+    "star": "4.4",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Agra_Fort_1.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Agra_Fort_2.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Agra_Fort_3.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Agra_Fort_4.webp"
+    ]
   },
-  { "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228346/travel/explore/Srinagar.jpg",
-    "image": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228346/travel/explore/Srinagar.jpg",
-    "title": "Srinagar",
-    "description": "Famously known as ‘Heaven on Earth’, Srinagar is located in the union territory of Jammu & Kashmir, on the banks of river Jhelum. As picturesque as the most stunning painting to ever be painted, Srinagar is known for the stationary houseboats and colourful Shikararas on Dal Lake. The main draw of Sringara, the gondola-type rowboats - Shikaras are used by the tourists to see attractions like the Floating Vegetable Market, and the Mir Bahris – a lively community of people who live on the lake itself. Known as the summer capital of Jammu & Kashmir, Srinagar is home to some of the most exquisite Mughal-age gardens in India, with the top attractions being Nishat Bagh, Shalimar Bagh and Chashm-E-Shahi Garden. Kashmiri cuisine is famous all over the globe, so when in Srinagar, trying out the local dishes, which are rich in unique fragrant spices, is a must. Srinagar is also famous for the Kashmiri shawls, Kashmiri apples and the dried fruits (almonds and walnuts) which can be bought from the Lal Chowk Market. Heavy snowfall affects the connectivity of Srinagar during the winter months of December to February. Communal tensions also lead to frequent curfews in some parts of the city. Make sure to check the situation before visiting.",
-    "location": "Jammu & Kashmir, India",
-    "star": "4.5"
+  { "image": "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/mehrangarh_fort_1.webp",
+    "title": "Mehrangarh Fort",
+    "description": "Dominating the old city of Jodhpur, the massive Mehrangarh Fort, one of the largest fortifications in India, was built in the 15th century to safeguard the people of the famous 'Blue City,' as Jodhpur is still known - a name derived from its indigo colored houses, painted blue to deflect the heat. Built on top of a towering outcrop, Mehrangarh is an amazing feat of construction, its massive walls all but impenetrable. Access is via one of seven splendid gates, including Jaya Pol and Fateh Pol (the latter still bears scars from cannon attacks). Highlights of a visit include exploring the fort's fascinating network of courtyards and palaces, as well as a museum housing a splendid collection of artifacts related to the Maharajas. Be sure to spend time in the historic center of Jodhpur itself, famous for its eight city gates, a lovely old clock tower, and numerous bazaars selling everything from vegetables to sweets, spices, and handicrafts.",
+    "location": "Jodhpur",
+    "star": "4.6",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/mehrangarh_fort_1.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/mehrangarh_fort_2.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/mehrangarh_fort_3.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/mehrangarh_fort_4.webp"
+    ]
   },
-  { "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228334/travel/explore/Gangtok.jpg",
-    "image": "https://res.cloudinary.com/trendbrains/image/upload/c_scale,h_1280,w_720/v1634228334/travel/explore/Gangtok.jpg",
-    "title": "Gangtok",
-    "description": "Incredibly alluring, pleasantly boisterous and wreathed in clouds - Gangtok, the capital of Sikkim, is one of the most popular hill stations in India. Lying at the height of 1650 m above sea level, the town during its bright sunny days offers spectacular views of Mt. Kanchenjunga. Gangtok is a base for adventure enthusiasts comprising of trekkers and campers to the Himalayan mountain ranges. During the months of March to Mid-May, blooming of wild Rhododendrons transform the surrounding regions in vast fields of colourful carpets. Its name meaning hill-top, Gangtok can be safely said to be one of the most beautiful hill stations in the country. With everything in just the right amount from a blend of cultural identities to urbanisation, Gangtok is a breathing and dynamic bit of paradise of the northeast. Gangtok and its surrounding regions are abundant in natural beauty and have various natural attractions such as the Tsomgo Lake, Ban Jhakri falls, Tashi viewpoint and more. Other places to visit include many famous religious sites such as the Enchey Monastery, Ganesh Tok, Do Drul Chorten Rumtek Monastery, etc. Also, river Teesta is one of the best spots for white water rafting in North East India.",
-    "location": "Sikkim, India",
-    "star": "4.4"
+  { "image": "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Golden_Temple_1.webp",
+    "title": "Harmandir Sahib",
+    "description": "Founded in 1577 by Ram Das, Amritsar is an important hub of Sikh history and culture. The main attraction here is Harmandir Sahib, opened in 1604 and still often referred to as the Golden Temple for its beautiful gold decoration. The holiest of India's many Sikh shrines (it also attracts many Hindus and people of other faiths), the temple was built in a blend of Hindu and Islamic styles, its lower marble section featuring such flourishes as ornate inlaid floral and animal motifs, while the large golden dome represents a lotus flower, a symbol of purity to Sikhs. In addition to its splendid design, visitors are equally impressed with the temple's spiritual atmosphere, an effect enhanced by the prayers continuously chanted from the Sikh holy book and broadcast throughout the complex. Part of the overall experience-and visitors are welcome to participate-is the chance to enjoy one of the 50,000 free meals the attraction serves up to visitors each and every day.",
+    "location": "Amritsar",
+    "star": "4.9",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Golden_Temple_1.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Golden_Temple_2.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Golden_Temple_3.webp",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1633518874/travel/discover/Golden_Temple_4.webp"
+    ]
   }
 ]
