@@ -14,7 +14,8 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639288320/developer/trains-book-version-3/Varanasi-2.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639288353/developer/trains-book-version-3/Varanasi-3.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639288390/developer/trains-book-version-3/Varanasi-4.jpg"
-    ]
+    ],
+    "video" :""
   },
   {
     "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/v1639380057/developer/trains-book-version-3/Vaishno%20Devi-thumbnail.jpg",
@@ -31,7 +32,8 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639256932/developer/trains-book-version-3/Vaishno%20Devi-2.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639257017/developer/trains-book-version-3/Vaishno%20Devi-3.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639286902/developer/trains-book-version-3/Vaishno%20Devi-4.jpg"
-    ]
+    ],
+    "video" :""
   },
   {
     "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/v1639380126/developer/trains-book-version-3/Jaipur-thumbnail.jpg",
@@ -49,7 +51,8 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639255577/developer/trains-book-version-3/Jaipur-3.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639255589/developer/trains-book-version-3/Jaipur-4.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639255603/developer/trains-book-version-3/Jaipur-5.jpg"
-    ]
+    ],
+    "video" :""
   },
   {
     "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/v1639380185/developer/trains-book-version-3/Shimla-thumbnail.jpg",
@@ -66,6 +69,7 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639290771/developer/trains-book-version-3/Shimla-2.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639291203/developer/trains-book-version-3/Shimla-3.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639291264/developer/trains-book-version-3/Shimla-4.jpg"
-    ]
+    ],
+    "video" :""
   }
 ]
