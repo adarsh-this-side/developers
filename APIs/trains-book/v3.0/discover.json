@@ -1,23 +1,5 @@
 ﻿[
   {
-    "title": "Jaipur",
-    "location": "Rajasthan",
-    "country": "India",
-    "rate": 4.4,
-    "weather": "14° C",
-    "tagline": "The Pink City",
-    "short_description": "Also called the Pink City, Jaipur is the capital of the royal state of Rajasthan. Along with Delhi and Agra, Jaipur forms the Golden Triangle and hails as one of the most famous tourist circuits in the country.",
-    "long_description": "Rajputs ruled Jaipur for many centuries and developed as a planned city in the 17th century AD. With the old city surrounded by walls and gates decorated with drawings on the backdrop of a beautiful pink hue, Jaipur, the pink city, successfully retains its old-world charm. Home to a few UNESCO World Heritage sites, including Amer Fort and Jantar Mantar, Jaipur holds many magnificent forts, palaces, temples and museums and brims with bustling local bazaars where you can shop to your heart's content. The city is also very well known for its local food, and the most famous dishes include the Ghewar, Pyaaz Kachori and Dal Baati Churma. The city also hosts the Jaipur Literary Festival, which is Asia's biggest festival of its kind.One of the largest cities in India, Jaipur is also home to all the modern amenities with some of the most exotic hotels and resorts in the world. The city boasts an international airport and is also very well connected by rail and road. The metro, local buses, shared tuk-tuks, auto-rickshaws and taxi aggregator apps, including Uber and Ola, solve the commute problem in the city quite comfortably.",
-    "gallery":[
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255504/developer/trains-book-version-3/Jaipur-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255543/developer/trains-book-version-3/Jaipur-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255577/developer/trains-book-version-3/Jaipur-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255589/developer/trains-book-version-3/Jaipur-4.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255603/developer/trains-book-version-3/Jaipur-5.jpg"
-    ],
-    "video" :""
-  },
-  {
     "title": "Jim Corbett National Park",
     "location": "Uttarakhand",
     "country": "India",
@@ -269,6 +251,95 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639290771/developer/trains-book-version-3/Shimla-2.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639291203/developer/trains-book-version-3/Shimla-3.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639291264/developer/trains-book-version-3/Shimla-4.jpg"
+    ],
+    "video" :""
+  },
+  {
+    "title": "Kanha National Park",
+    "location": "Madhya Pradesh",
+    "country": "India",
+    "rate": 3.7,
+    "weather": "17° C",
+    "tagline": "The land of Jungle Book",
+    "short_description": "Located in a central region of Madhya Pradesh, Kanha National Park is the largest National Park in central India and has been ranked as one of the best parks in Asia. Among the 22 species of large mammals, the royal Bengal tigers are one of the major attractions. One of the best tiger reserves in India, the present-day area stretches over the 940-kilometre square which is divided into two sanctuaries: Hallon and Banjar.",
+    "long_description": "The park was established in the year 1955 and has since actively contributed to the preservation of many endangered species. The National Park was taken under the Project Tiger Reserve in 1974. Abundant in flora and fauna, the Kanha National Park houses one of the rarest species of deer- the Barasingha. It is known for the unique Barasingha conversation to save the species that were once on the verge of extinction. One of the most scenic wildlife reserves in Asia today, this National Park came to be known the world over through Rudyard Kipling's book- The Jungle Book. Kanha National Park is famous for its wildlife safaris and attracts tourists from all over the world. Other important animals in this park are leopards, wild dogs, wild cats, foxes, sloth bears, hyenas, langurs, wild boars and jackals. Reptiles including pythons, cobras, krait and other varieties of snakes are also found in this National Park.",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587338/developer/trains-book-version-3/Kanha%20National%20Park-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587355/developer/trains-book-version-3/Kanha%20National%20Park-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587370/developer/trains-book-version-3/Kanha%20National%20Park-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587496/developer/trains-book-version-3/Kanha%20National%20Park-4.png",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587517/developer/trains-book-version-3/Kanha%20National%20Park-5.png"
+    ],
+    "video" :""
+  },
+  {
+    "title": "Almora",
+    "location": "Uttarakhand",
+    "country": "India",
+    "rate": 3.9,
+    "weather": "6° C",
+    "tagline": "A cozy heritage town nestled in the Himalayas.",
+    "short_description": "Set in the background of snow-capped Himalayan ranges of Uttarakhand, the sprawling town of Almora is a beautiful hill station. With easy accessibility from Delhi and other major cities of North India, Almora is known for its rich cultural heritage, unique handicrafts, sumptuous cuisine and magnificent wildlife. This town has two major rivers- Koshi (Kaushaki) and Suyal (Salmali).",
+    "long_description": "Popular pilgrimage sites like Nanda Devi and Jageshwar attract thousands of devotees each year. Almora is also popular among backpackers as it has hostels and cafes in Kasar Devi, a village near Almora.Many routes that go deeper into the Himalayas start from Almora, and there is also single day to weekend treks near the town. Almora is also popular for mountain biking, Since it is easy to reach Almora and it is at a relatively low altitude, one does not need too much training to bike here. Many shops and resorts rent bikes by the hour or by the day, and you can also enjoy cycling across the rugged mountain paths.",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587886/developer/trains-book-version-3/Almora-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587905/developer/trains-book-version-3/Almora-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587922/developer/trains-book-version-3/Almora-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639587948/developer/trains-book-version-3/Almora-4.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588020/developer/trains-book-version-3/Almora-5.jpg"
+    ],
+    "video" :""
+  },
+  {
+    "title": "Dehradun",
+    "location": "Uttarakhand",
+    "country": "India",
+    "rate": 3.9,
+    "weather": "11° C",
+    "tagline": "Winter Capital of Uttarakhand",
+    "short_description": "Dehradun is the capital city and the largest city of Uttarakhand. Dehradun is located at an altitude of 1400 feet above sea level and has a pleasant climate all year round. Located just 30kms from Mussoorie, Dehradun is known as the gateway to Mussoorie and Rishikesh and Haridwar. Dehradun is also known as the Educational Hub of Uttarakhand with some of the country's prestigious universities and boarding schools.",
+    "long_description": "As you would expect from a city located in the foothills of the Himalayas, Dehradun abounds in caves, waterfalls and natural springs. One such popular spot is Robber's Cave, which is a natural cave surrounded by hills. Dip your feet in the ice-cold water or walk through it - travellers are free to take their pick, making Robber's Cave one of the most popular picnic spots in the city. Another popular spot for nature lovers is Lacchiwala, where you can sit and enjoy a relaxing sunset around the man-made lake and the lush greenery around it. Lacchiwala also has arrangements for trekking and birdwatching if you're up for it.",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588356/developer/trains-book-version-3/Dehradun-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588235/developer/trains-book-version-3/Dehradun-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588129/developer/trains-book-version-3/Dehradun-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588280/developer/trains-book-version-3/Dehradun-4.jpg"
+    ],
+    "video" :""
+  },
+  {
+    "title": "Jammu",
+    "location": "Jammu & Kashmir",
+    "country": "India",
+    "rate": 4.1,
+    "weather": "11° C",
+    "tagline": "City of Temples",
+    "short_description": "Jammu is the southernmost-part of the union territory of Jammu and Kashmir which sits proudly on the magnificent Shivalik mountain ranges. The Winter Capital of Kashmir, Jammu is a holy and peaceful city known for its majestic temples, religious shrines, glittering shikhars, and cultural heritage. Since it is also the starting point to the hugely popular Vaishno Devi Temple and Amarnath Yatra, it is visited by tourists from far and wide.",
+    "long_description": "Nestled against the backdrop of the snow-capped Pir Panjal Mountains, Jammu forms part of the transition between the Himalayan range in the north and the dusty plains of Punjab in the south. The Shivalik hills cut across the area from the east to the west while the rivers Ravi, Tawi and Chenab cut their way through the region. The City of Temples, Jammu houses the famous Maha Kali Temple which is considered second only to the Vaishno Devi Temple. Originally found in 14th Century BC, the area was ruled over by Dogra dynasty in the pre-independence era. Buddhist Stupas dating back to the 2nd century AD is peppered throughout Jammu, speaking volumes of its rich heritage.The eccentricity of Jammu is prevalent is also prevalent in its Dogra cuisine the crown of which is the scrumptious Wazwan (traditional Kashmiri buffet). Jammu is truly a melange of pilgrimage, leisure, natural beauty and heritage.",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588518/developer/trains-book-version-3/Jammu-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588538/developer/trains-book-version-3/Jammu-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588501/developer/trains-book-version-3/Jammu-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588557/developer/trains-book-version-3/Jammu-4.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588635/developer/trains-book-version-3/Jammu-5.jpg"
+    ],
+    "video" :""
+  },
+  {
+    "title": "Jaipur",
+    "location": "Rajasthan",
+    "country": "India",
+    "rate": 4.4,
+    "weather": "14° C",
+    "tagline": "The Pink City",
+    "short_description": "Also called the Pink City, Jaipur is the capital of the royal state of Rajasthan. Along with Delhi and Agra, Jaipur forms the Golden Triangle and hails as one of the most famous tourist circuits in the country.",
+    "long_description": "Rajputs ruled Jaipur for many centuries and developed as a planned city in the 17th century AD. With the old city surrounded by walls and gates decorated with drawings on the backdrop of a beautiful pink hue, Jaipur, the pink city, successfully retains its old-world charm. Home to a few UNESCO World Heritage sites, including Amer Fort and Jantar Mantar, Jaipur holds many magnificent forts, palaces, temples and museums and brims with bustling local bazaars where you can shop to your heart's content. The city is also very well known for its local food, and the most famous dishes include the Ghewar, Pyaaz Kachori and Dal Baati Churma. The city also hosts the Jaipur Literary Festival, which is Asia's biggest festival of its kind.One of the largest cities in India, Jaipur is also home to all the modern amenities with some of the most exotic hotels and resorts in the world. The city boasts an international airport and is also very well connected by rail and road. The metro, local buses, shared tuk-tuks, auto-rickshaws and taxi aggregator apps, including Uber and Ola, solve the commute problem in the city quite comfortably.",
+    "gallery":[
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255504/developer/trains-book-version-3/Jaipur-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255543/developer/trains-book-version-3/Jaipur-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255577/developer/trains-book-version-3/Jaipur-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255589/developer/trains-book-version-3/Jaipur-4.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255603/developer/trains-book-version-3/Jaipur-5.jpg"
     ],
     "video" :""
   }
