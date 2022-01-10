@@ -7,7 +7,7 @@
         "total_cook_time": "40 mins",
         "prep_time": "40 mins",
         "cook_time": "40 mins",
-        "recipe_servings": "40 mins",
+        "recipe_servings": "4",
         "Ingredients": [
             "250 gms Lamb Shanks",
             "100 gram Dry Coconut/Copra",
@@ -35,7 +35,8 @@
             "Now strain the gravy finely. Then add back the shanks and cook for some time.",
             "Place it in a bowl and garnish it with juliennes of ginger and chopped coriander."
         ],
-        "key_ingredients": "Dry Coconut/Copra, Dry Red Chillies, Mace, Fennel Seeds, Cinnamon Stick, Cloves, Green Cardamom, Curry Leaves, Big Sliced Onion, Tomato Puree, Cooking Oil, Ginger Garlic Paste, Curd"
+        "key_ingredients": "Dry Coconut/Copra, Dry Red Chillies, Mace, Fennel Seeds, Cinnamon Stick, Cloves, Green Cardamom, Curry Leaves, Big Sliced Onion, Tomato Puree, Cooking Oil, Ginger Garlic Paste, Curd",
+        "credit": "by NDTV"
     },
     {
         "image": "https://c.ndtvimg.com/2021-02/271krdvo_garlic-naan_625x300_16_February_21.jpg",
@@ -76,6 +77,7 @@
             "To cook in tawa, lightly flip on both sides until golden brown and cooked.",
             "Brush with coriander and garlic butter and enjoy with a dip of your choice."
         ],
-        "key_ingredients": "Maida , salt , sugar , curd , neutral oil, Water as required , minced mutton , onions , ginger garlic paste , red chilli powder , haldi , cumin powder, coriander powder, garam masala, coriander leaves"
+        "key_ingredients": "Maida , salt , sugar , curd , neutral oil, Water as required , minced mutton , onions , ginger garlic paste , red chilli powder , haldi , cumin powder, coriander powder, garam masala, coriander leaves",
+        "credit": "by Times"
     }
 ]
