@@ -7,7 +7,7 @@
         "total_cook_time": "40 mins",
         "prep_time": "40 mins",
         "cook_time": "40 mins",
-        "recipe_servings": "4 Servings",
+        "recipe_servings": "4",
         "Ingredients": [
             "250 gms Lamb Shanks",
             "100 gram Dry Coconut/Copra",
@@ -46,7 +46,7 @@
         "total_cook_time": "30 mins",
         "prep_time": "10 mins",
         "cook_time": "20 mins",
-        "recipe_servings": "2 Servings",
+        "recipe_servings": "2",
         "Ingredients": [
             "For Dough :",
             "2 cups Maida",
@@ -88,7 +88,7 @@
         "total_cook_time": "40 mins",
         "prep_time": "40 mins",
         "cook_time": "40 mins",
-        "recipe_servings": "4 Servings",
+        "recipe_servings": "4",
         "Ingredients": [
             "250 gms Lamb Shanks",
             "100 gram Dry Coconut/Copra",
@@ -127,7 +127,7 @@
         "total_cook_time": "30 mins",
         "prep_time": "10 mins",
         "cook_time": "20 mins",
-        "recipe_servings": "2 Servings",
+        "recipe_servings": "2",
         "Ingredients": [
             "For Dough :",
             "2 cups Maida",
