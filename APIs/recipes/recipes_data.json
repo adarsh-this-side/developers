@@ -1,6 +1,7 @@
 [
     {
-        "image": "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg",
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg",
+            "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg"],
         "video": "",
         "title": "Nalli Ka Salan Recipe",
         "description": "Hyderbadi Nalli ka salan is a traditional dish prepared on special occasions. It is a spicy dish served with Rice and Roti. The Nalli pieces are cooked with spices and to thicken the gravy they add coconut paste which gives the texture to the gravy.",
@@ -39,7 +40,8 @@
         "credit": "by NDTV"
     },
     {
-        "image": "https://images.unsplash.com/photo-1512010151537-2cf5c638ad51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "image": ["https://images.unsplash.com/photo-1512010151537-2cf5c638ad51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "https://images.unsplash.com/photo-1512010151537-2cf5c638ad51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80"],
         "video": "",
         "title": "keema naan Recipe",
         "description": "This is a delicious naan recipe, stuffing is prepare with mince mutton & spices. Spicy stuffing makes this keema naan complete meal, you can pair this with raita or your favorite gravy.",
@@ -81,7 +83,8 @@
         "credit": "by Times"
     },
     {
-        "image": "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg",
+        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg",
+            "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg"],
         "video": "",
         "title": "Nalli Ka Salan Recipe",
         "description": "Hyderbadi Nalli ka salan is a traditional dish prepared on special occasions. It is a spicy dish served with Rice and Roti. The Nalli pieces are cooked with spices and to thicken the gravy they add coconut paste which gives the texture to the gravy.",
@@ -120,7 +123,8 @@
         "credit": "by NDTV"
     },
     {
-        "image": "https://images.unsplash.com/photo-1512010151537-2cf5c638ad51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "image": ["https://images.unsplash.com/photo-1512010151537-2cf5c638ad51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "https://images.unsplash.com/photo-1512010151537-2cf5c638ad51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWFuZm9vZHxlbnwwfHwwfHw%3D&w=1000&q=80"],
         "video": "",
         "title": "keema naan Recipe",
         "description": "This is a delicious naan recipe, stuffing is prepare with mince mutton & spices. Spicy stuffing makes this keema naan complete meal, you can pair this with raita or your favorite gravy.",
@@ -161,4 +165,5 @@
         "key_ingredients": "Maida , salt , sugar , curd , neutral oil, Water as required , minced mutton , onions , ginger garlic paste , red chilli powder , haldi , cumin powder, coriander powder, garam masala, coriander leaves",
         "credit": "by Times"
     }
+   
 ]
