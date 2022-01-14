@@ -87,7 +87,7 @@
         "title": "Nalli Ka Salan Recipe",
         "description": "Hyderbadi Nalli ka salan is a traditional dish prepared on special occasions. It is a spicy dish served with Rice and Roti. The Nalli pieces are cooked with spices and to thicken the gravy they add coconut paste which gives the texture to the gravy.",
         "cook_time": "40 mins",
-        "level": "Medium",
+        "level": "",
         "recipe_servings": "1",
         "Ingredients": [
             "250 gms Lamb Shanks",
@@ -116,7 +116,7 @@
             "Now strain the gravy finely. Then add back the shanks and cook for some time.",
             "Place it in a bowl and garnish it with juliennes of ginger and chopped coriander."
         ],
-        "key_ingredients": "Dry Coconut/Copra, Dry Red Chillies, Mace, Fennel Seeds, Cinnamon Stick, Cloves, Green Cardamom, Curry Leaves, Big Sliced Onion, Tomato Puree, Cooking Oil, Ginger Garlic Paste, Curd",
+        "key_ingredients": "",
         "credit": "by NDTV"
     },
     {
@@ -127,7 +127,7 @@
         "description": "This is a delicious naan recipe, stuffing is prepare with mince mutton & spices. Spicy stuffing makes this keema naan complete meal, you can pair this with raita or your favorite gravy.",
         "cook_time": "40 mins",
         "level": "Good",
-        "recipe_servings": "4",
+        "recipe_servings": "",
         "Ingredients": [
             "For Dough :",
             "2 cups Maida",
