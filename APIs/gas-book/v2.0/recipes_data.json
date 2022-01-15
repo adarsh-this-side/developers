@@ -1,7 +1,10 @@
 [
     {
-        "image": ["https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg",
-            "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-noodles-vegetables-egg-819x1024.jpg"],
+        "image": [
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642090217/developer/gas-book-version-2/Samosas-1.jpg",
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642090238/developer/gas-book-version-2/Samosas-2.jpg",
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642090334/developer/gas-book-version-2/Samosas-3.jpg",
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642090281/developer/gas-book-version-2/Samosas-4.jpg"],
         "video": "",
         "title": "Nalli Ka Salan Recipe",
         "description": "Hyderbadi Nalli ka salan is a traditional dish prepared on special occasions. It is a spicy dish served with Rice and Roti. The Nalli pieces are cooked with spices and to thicken the gravy they add coconut paste which gives the texture to the gravy.",
