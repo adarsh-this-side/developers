@@ -241,5 +241,160 @@
         ],
         "key_ingredients": "Maida, Mashed potato, Matar (optional), Garam Masala, Chaat Masala, Salt, Imli Ki Chutney, Mint Chutney, Dahi, Oil To Fry, Red Chilli Powder, Chopped Green Chillies, Black salt, Coriander Leaves, Sev To Garnish",
         "credit": "NDTV Food"
+    },
+    {
+        "image": [
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642591969/developer/gas-book-version-2/Varo%20mithai-1.jpg",
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642591892/developer/gas-book-version-2/Varo%20mithai-2.jpg"
+        ],
+        "video": "",
+        "title": "Varo mithai Recipe",
+        "description": "Varo is a Sindhi dessert usually made for festivals like Diwali, but its richness and flavour makes it a sough-after dish at any time of the year.",
+        "cook_time": "20 mins",
+        "level": "Easy",
+        "recipe_servings": "2",
+        "Ingredients": [
+            "1/2 Cup Chopped almonds",
+            "1/2 Cup Chopped cashew",
+            "1/4 Cup Chopped pista",
+            "1 Tbsp Ghee",
+            "2 Tbsp Poppy Seeds",
+            "2 Tbsp Poppy Seeds"
+        ],
+        "method": [
+            "In a pan roast the chopped dry fruits until lightly charred. Take them off the heat and keep it aside.",
+            "In the same pan add ghee and poppy seeds and mix for a minute.",
+            "Now add sugar and let it caramelize. Make sure there are no lumps; stir it continuously until a smooth melted liquid forms.",
+            "Switch off the flame and immediately add the chopped dry fruits.",
+            "Mix everything together and be quick because the sugar will start to solidify.",
+            "Apply a drop of ghee on a flat surface like a plate and grease it. Pour the sugar and dry fruits mixture and gently tap until it is well dispersed.",
+            "Once it is spread evenly, cut it into medium-sized squares. Since it is still soft right now, it will be easier to cut into uniformed pieces. You can avoid this step and break it into pieces once it solidifies as well.",
+            "Serve as is or you can even store for up to 2 weeks in an airtight container."
+        ],
+        "key_ingredients": "Chopped almonds, Chopped cashew, Chopped pista, Ghee, Poppy Seeds, Sugar",
+        "credit": ""
+    },
+    {
+        "image": [
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642592251/developer/gas-book-version-2/Chana%20Dal%20Chikki-1.jpg",
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642592272/developer/gas-book-version-2/Chana%20Dal%20Chikki-2.jpg"
+        ],
+        "video": "",
+        "title": "Chana Dal Chikki Recipe",
+        "description": "Chana Dal chikki is just another version of the classic peanut chikki but much flavourful and rich. The use of roasted Bengal grams adds an earthy flavor to the chikki along with the nutty taste that we all love.",
+        "cook_time": "30 mins",
+        "level": "Easy",
+        "recipe_servings": "2",
+        "Ingredients": [
+            "1 Cup Split Chana Dal",
+            "1 cup Jaggery",
+            "2 tbsp Ghee"
+        ],
+        "method": [
+            "In a kadhai, dry roast chana dal until it smells done and starts changing color to slightly golden.",
+            "In another pan heat ghee and add jaggery to it, mix until properly melted.",
+            "Add the roasted chana dal to the jaggery and mix until every piece has been coated with jaggery. Take off the heat and quickly transfer to a well-greased flat surface.",
+            "Let this set for 2-4 hours and enjoy."
+        ],
+        "key_ingredients": "Split Chana Dal , Jaggery, Ghee",
+        "credit": "NDTV Food"
+    },
+    {
+        "image": [
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642594357/developer/gas-book-version-2/Paneer%20Masala%20Fry-1.jpg",
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642594442/developer/gas-book-version-2/Paneer%20Masala%20Fry-2.jpg",
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642594470/developer/gas-book-version-2/Paneer%20Masala%20Fry-3.jpg"
+        ],
+        "video": "",
+        "title": "Paneer Masala Fry Recipe",
+        "description": "This paneer masala fry is packed with a punch of masalas that gives you an explosion of taste in every bite.",
+        "cook_time": "25 mins",
+        "level": "Easy",
+        "recipe_servings": "2",
+        "Ingredients": [
+            "7-8 Paneer Cubes",
+            "1/2 cup Curd",
+            "1/2 tsp Red Chilli Powder",
+            "1/2 tsp Black Pepper",
+            "1/2 tsp Garam Masala",
+            "1/2 tsp Coriander Powder",
+            "1/2 tsp Turmeric Powder",
+            "1 tbsp Ginger-Garlic Paste",
+            "5-6 Curry Leaves",
+            "1 Dry Red Chilli"
+        ],
+        "method": [
+            "Cut the paneer in small cubes.",
+            "Now in a bowl add red chilli powder, pepper, garam masalas, turmeric powder, coriander powder, ginger-garlic paste and mix.",
+            "Now add thick curd and combine it with the masalas. Finally add some lemon drops.",
+            "Throw in the paneer cubes and make sure that all the pieces are coated well. Let it rest for 15 minutes.",
+            "In a pan, heat some oil, add curry leaves, dry red chilli and let it splutter.",
+            "Put in the paneer pieces and cook from both the sides.",
+            "When it turns brown and crispy take it out and serve!"
+        ],
+        "key_ingredients": "Paneer Cubes , Curd , Red Chilli Powder , Black Pepper, Garam Masala, Coriander Powder, Turmeric Powder , Ginger-Garlic Paste , Curry Leaves, Dry Red Chilli",
+        "credit": "NDTV Food"
+    },
+    {
+        "image": [
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642594726/developer/gas-book-version-2/Gud%20Til%20Ladoo-1.jpg",
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642594767/developer/gas-book-version-2/Gud%20Til%20Ladoo-2.jpg"
+        ],
+        "video": "",
+        "title": "Gud Til Ladoo Recipe",
+        "description": "These laddus made in winter are not only delicious and also keep your health in check. Consumption of sesame and jaggery in winter is very beneficial. It helps to keep you warm from inside.",
+        "cook_time": "25 mins",
+        "level": "Easy",
+        "recipe_servings": "5",
+        "Ingredients": [
+            "1 Cup Jaggery",
+            "1/2 cup Roasted Sesame (til)",
+            "1 tbsp Ghee",
+            "1 tsp Cardamom Powder",
+            "1 tbsp Almonds (Crushed)",
+            "1 tbsp Cashews (Crushed)"
+        ],
+        "method": [
+            "First of all, roast sesame seeds in a pan and keep them aside to cool down. Then, place a wok on the gas and heat it by adding ghee.",
+            "Add jaggery to it and let it melt completely. Slow down the flame.",
+            "After melting the jaggery, add sesame seeds, cardamom powder, crushed almonds and cashews and mix it well.",
+            "Now turn off the gas. After the mixture cools down a bit, grease your hands and make laddus from it.",
+            "Keep these laddoos in an airtight container and enjoy them."
+        ],
+        "key_ingredients": "Jaggery, Roasted Sesame (til), Ghee, Cardamom Powder, Almonds (Crushed), Cashews (Crushed)",
+        "credit": "NDTV Food"
+    },
+    {
+        "image": [
+            "https://res.cloudinary.com/trendbrains/image/upload/v1642595035/developer/gas-book-version-2/Matar%20Samosa-1.jpg"
+        ],
+        "video": "",
+        "title": "Matar Samosa Recipe",
+        "description": "In this recipe, the classic aloo filling is replaced with fresh matar that is cooked in spices. Then small samosas are made and enjoyed. This quick and easy recipe can be made with just a few ingredients.",
+        "cook_time": "25 mins",
+        "level": "Easy",
+        "recipe_servings": "2",
+        "Ingredients": [
+            "1 Cup All-Purpose Flour",
+            "1 tsp Salt",
+            "1 tbsp Ghee",
+            "1 and a half cup Fresh Peas",
+            "1 tsp Red Chilli Powder",
+            "1 tsp Coriander Powder",
+            "1 tsp Garam Masala",
+            "1 tsp Amchur Powder",
+            "Salt as per taste"
+        ],
+        "method": [
+            "To make the dough, take all-purpose flour, salt, ghee, water and mix. Make a dough and let it rest.",
+            "Till then, prepare the stuffing. For that add oil in a pan and throw in cumin seeds, slit green chilli and green peas. Mix it well.",
+            "Now add spices like red chilli powder, coriander powder, amchur powder, garam masala and salt. Combine again.",
+            "Once done let this mixture cool down.",
+            "Now, from the dough make, bite size samosa shapes, fill in the stuffing and deep fry them till crisp.",
+            "Once done, take them out and enjoy!"
+        ],
+        "key_ingredients": "All-Purpose Flour , Salt, Ghee , Fresh Peas , Red Chilli Powder , Coriander Powder, Garam Masala, Amchur Powder , Salt as per taste",
+        "credit": "NDTV Food"
     }
+ 
 ]
