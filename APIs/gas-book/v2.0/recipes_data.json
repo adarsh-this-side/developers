@@ -69,6 +69,7 @@
         "image": [
             "https://res.cloudinary.com/trendbrains/image/upload/v1642587992/developer/gas-book-version-2/Goli%20Idli-1.jpg"
         ],
+        "video": "",
         "title": "Goli Idli Recipe",
         "description": "Rice balls steamed, cooked and served with your favorite tomato chutney. This innovative goli idli recipe is so easy to make and requires just a few ingredients.",
         "cook_time": "20 mins",
@@ -105,6 +106,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642588968/developer/gas-book-version-2/Egg%20Samosa%20Recipe-1.jpg",
             "https://res.cloudinary.com/trendbrains/image/upload/v1642589104/developer/gas-book-version-2/Egg%20Samosa%20Recipe-2.jpg"
         ],
+        "video": "",
         "title": "Egg Samosa Recipe",
         "description": "This samosa recipe is stuffed with a masala mixture of carrots, potatoes and eggs, making it crispy on the outside and soft on the inside.",
         "cook_time": "30 mins",
@@ -141,6 +143,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642589586/developer/gas-book-version-2/Bread%20Dahi%20Chaat-2.jpg",
             "https://res.cloudinary.com/trendbrains/image/upload/v1642589605/developer/gas-book-version-2/Bread%20Dahi%20Chaat-3.jpg"
         ],
+        "video": "",
         "title": "Bread Dahi Chaat Recipe",
         "description": "We bring you an easy and delicious recipe of bread Dahi chaat! As the name suggests, this chaat is made with a mix of crispy bread, and the classic flavours of chaat to give you a zing in the taste!",
         "cook_time": "20 mins",
