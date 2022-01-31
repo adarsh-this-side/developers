@@ -1,43 +1,5 @@
 [
   {
-    "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/v1639379900/developer/trains-book-version-3/Varanasi-thumbnail.jpg",
-    "title": "Varanasi",
-    "location": "Uttar Pradesh",
-    "country": "India",
-    "rate": 4.4,
-    "weather": "14° C",
-    "tagline": "The Spiritual Capital of India",
-    "short_description": "World's oldest living city, Varanasi - also known as Kashi (City of Life) and Benaras, is the spiritual capital of India. It is one of Hinduism's seven holy cities. The old city of Varanasi lies along the western banks of the Ganges, spread across a labyrinth of narrow galis. Be prepared to walk on foot and encounter some holy cows! Temples at almost every turn engulf Varanasi but the Kashi Vishwanath Temple is the most visited and the oldest of the lot. Benaras is known as the city of Lord Shiva for a reason, and rightfully so.",
-    "long_description": "Varanasi is considered an auspicious place to die, as it is believed to grant moksha or liberation from the cycle of life and death. Spiritually enlightening, the heart of the city pulsates around the ghats, about 80 of which border the Ganges. Be prepared for the sights, sounds and smells! Don't miss out on the hot chaat and cool lassi. Though, all chaos and noise on the ghats take a pause before dusk when the Ganga Aarti begins to take place, a ceremony of immense grandeur. This divine city is also an important destination for Buddhists. Gautam Buddha preached his first sermon in Benaras, a part which is now in Sarnath.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288288/developer/trains-book-version-3/Varanasi-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288320/developer/trains-book-version-3/Varanasi-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288353/developer/trains-book-version-3/Varanasi-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288390/developer/trains-book-version-3/Varanasi-4.jpg"
-    ],
-    "video" :"FZOs4OASDxA",
-    "affiliate": ""
-  },
-  {
-    "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/v1639380057/developer/trains-book-version-3/Vaishno%20Devi-thumbnail.jpg",
-    "title": "Vaishno Devi",
-    "location": "Jammu & Kashmir",
-    "country": "India",
-    "rate": 4.4,
-    "weather": "8° C",
-    "tagline": "The Holy Caves",
-    "short_description": "Vaishno Devi is a temple town that's home to the famous Vaishno Devi Mandir. Located in Trikuta hills, 13 kms from Katra (in the union territory of Jammu and Kashmir); this renowned shrine allures millions of devotees from all over the world.  Popularly known as Mata Rani, Vaishnavi and Trikuta, Vaishno Devi is a manifestation of the Hindu Goddess Durga. It is believed that during the pooja and aarti, Goddesses arrive at the Holy cave to pay their respect to Mata Rani. Devotees believe the goddess herself calls the devotees to reach here.",
-    "long_description": "Vaishno Devi is said to be Moonh Maangi Muradein Poori Karne Wali Mata (the mother who fulfils the wishes of her children). The darshan of Maa Vaishno Devi in the holy cave is in the form of three naturally formed rocks which are known as pindies. These pindies manifest the three forms of the goddess as Maha Kali, Maha Saraswati and Maha Lakshmi. More than one crore devotees visit the Vaishno Devi temple each year.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639256884/developer/trains-book-version-3/Vaishno%20Devi-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639256932/developer/trains-book-version-3/Vaishno%20Devi-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639257017/developer/trains-book-version-3/Vaishno%20Devi-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639286902/developer/trains-book-version-3/Vaishno%20Devi-4.jpg"
-    ],
-    "video" :"",
-    "affiliate": ""
-  },
-  {
     "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/v1639380126/developer/trains-book-version-3/Jaipur-thumbnail.jpg",
     "title": "Jaipur",
     "location": "Rajasthan",
@@ -54,7 +16,7 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639255589/developer/trains-book-version-3/Jaipur-4.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639255603/developer/trains-book-version-3/Jaipur-5.jpg"
     ],
-    "video" :"",
+    "video": "",
     "affiliate": ""
   },
   {
@@ -73,7 +35,45 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639291203/developer/trains-book-version-3/Shimla-3.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639291264/developer/trains-book-version-3/Shimla-4.jpg"
     ],
-    "video" :"",
+    "video": "",
+    "affiliate": ""
+  },
+  {
+    "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/v1639379900/developer/trains-book-version-3/Varanasi-thumbnail.jpg",
+    "title": "Varanasi",
+    "location": "Uttar Pradesh",
+    "country": "India",
+    "rate": 4.4,
+    "weather": "14° C",
+    "tagline": "The Spiritual Capital of India",
+    "short_description": "World's oldest living city, Varanasi - also known as Kashi (City of Life) and Benaras, is the spiritual capital of India. It is one of Hinduism's seven holy cities. The old city of Varanasi lies along the western banks of the Ganges, spread across a labyrinth of narrow galis. Be prepared to walk on foot and encounter some holy cows! Temples at almost every turn engulf Varanasi but the Kashi Vishwanath Temple is the most visited and the oldest of the lot. Benaras is known as the city of Lord Shiva for a reason, and rightfully so.",
+    "long_description": "Varanasi is considered an auspicious place to die, as it is believed to grant moksha or liberation from the cycle of life and death. Spiritually enlightening, the heart of the city pulsates around the ghats, about 80 of which border the Ganges. Be prepared for the sights, sounds and smells! Don't miss out on the hot chaat and cool lassi. Though, all chaos and noise on the ghats take a pause before dusk when the Ganga Aarti begins to take place, a ceremony of immense grandeur. This divine city is also an important destination for Buddhists. Gautam Buddha preached his first sermon in Benaras, a part which is now in Sarnath.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288288/developer/trains-book-version-3/Varanasi-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288320/developer/trains-book-version-3/Varanasi-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288353/developer/trains-book-version-3/Varanasi-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288390/developer/trains-book-version-3/Varanasi-4.jpg"
+    ],
+    "video": "FZOs4OASDxA",
+    "affiliate": ""
+  },
+  {
+    "thumbnail": "https://res.cloudinary.com/trendbrains/image/upload/v1639380057/developer/trains-book-version-3/Vaishno%20Devi-thumbnail.jpg",
+    "title": "Vaishno Devi",
+    "location": "Jammu & Kashmir",
+    "country": "India",
+    "rate": 4.4,
+    "weather": "8° C",
+    "tagline": "The Holy Caves",
+    "short_description": "Vaishno Devi is a temple town that's home to the famous Vaishno Devi Mandir. Located in Trikuta hills, 13 kms from Katra (in the union territory of Jammu and Kashmir); this renowned shrine allures millions of devotees from all over the world.  Popularly known as Mata Rani, Vaishnavi and Trikuta, Vaishno Devi is a manifestation of the Hindu Goddess Durga. It is believed that during the pooja and aarti, Goddesses arrive at the Holy cave to pay their respect to Mata Rani. Devotees believe the goddess herself calls the devotees to reach here.",
+    "long_description": "Vaishno Devi is said to be Moonh Maangi Muradein Poori Karne Wali Mata (the mother who fulfils the wishes of her children). The darshan of Maa Vaishno Devi in the holy cave is in the form of three naturally formed rocks which are known as pindies. These pindies manifest the three forms of the goddess as Maha Kali, Maha Saraswati and Maha Lakshmi. More than one crore devotees visit the Vaishno Devi temple each year.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639256884/developer/trains-book-version-3/Vaishno%20Devi-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639256932/developer/trains-book-version-3/Vaishno%20Devi-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639257017/developer/trains-book-version-3/Vaishno%20Devi-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639286902/developer/trains-book-version-3/Vaishno%20Devi-4.jpg"
+    ],
+    "video": "",
     "affiliate": ""
   }
 ]
