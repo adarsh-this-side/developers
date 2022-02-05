@@ -6,6 +6,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642590418/developer/gas-book-version-2/Aloo%20Poha-3.jpg"
         ],
         "video": "",
+        "affiliate": "https://www.trendbrains.com",
         "title": "Aloo Poha Recipe",
         "description": "This recipe is as simple as it can get. This is for the lazy day's when you wake up late and don't feel like cooking anything. All you need to do is wash some poha, add boiled potatoes along with flavourful spices, mix it together and this simple delicacy is ready to relish!",
         "cook_time": "20 mins",
@@ -39,6 +40,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642590938/developer/gas-book-version-2/Dahi%20Samosa%20Chaat-3.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Dahi Samosa Chaat Recipe",
         "description": "Made with rich freshly grounded spices, crispy aloo samosa and a lot of dahi, this chaat is surely to die for.",
         "cook_time": "30 mins",
@@ -77,6 +79,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642591892/developer/gas-book-version-2/Varo%20mithai-2.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Varo mithai Recipe",
         "description": "Varo is a Sindhi dessert usually made for festivals like Diwali, but its richness and flavour makes it a sough-after dish at any time of the year.",
         "cook_time": "20 mins",
@@ -109,6 +112,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642592272/developer/gas-book-version-2/Chana%20Dal%20Chikki-2.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Chana Dal Chikki Recipe",
         "description": "Chana Dal chikki is just another version of the classic peanut chikki but much flavourful and rich. The use of roasted Bengal grams adds an earthy flavor to the chikki along with the nutty taste that we all love.",
         "cook_time": "30 mins",
@@ -135,6 +139,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642594470/developer/gas-book-version-2/Paneer%20Masala%20Fry-3.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Paneer Masala Fry Recipe",
         "description": "This paneer masala fry is packed with a punch of masalas that gives you an explosion of taste in every bite.",
         "cook_time": "25 mins",
@@ -170,6 +175,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642594767/developer/gas-book-version-2/Gud%20Til%20Ladoo-2.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Gud Til Ladoo Recipe",
         "description": "These laddus made in winter are not only delicious and also keep your health in check. Consumption of sesame and jaggery in winter is very beneficial. It helps to keep you warm from inside.",
         "cook_time": "25 mins",
@@ -198,6 +204,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642595035/developer/gas-book-version-2/Matar%20Samosa-1.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Matar Samosa Recipe",
         "description": "In this recipe, the classic aloo filling is replaced with fresh matar that is cooked in spices. Then small samosas are made and enjoyed. This quick and easy recipe can be made with just a few ingredients.",
         "cook_time": "25 mins",
@@ -233,6 +240,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642090281/developer/gas-book-version-2/Samosas-4.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Samosas Recipe",
         "description": "Create this tea time classic at home! Roll out a fresh dough, fill in your likings and fry crisp! Serve with mint and tamarind chutney and savour!",
         "cook_time": "35 mins",
@@ -268,6 +276,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642418534/developer/gas-book-version-2/Soya%20Idli-4.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Soya Idli Recipe",
         "description": "This recipe of idli involves soybean along with rice and urad dal- which makes the whole recipe enriched with good protein.",
         "cook_time": "45 mins",
@@ -296,6 +305,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642587992/developer/gas-book-version-2/Goli%20Idli-1.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Goli Idli Recipe",
         "description": "Rice balls steamed, cooked and served with your favorite tomato chutney. This innovative goli idli recipe is so easy to make and requires just a few ingredients.",
         "cook_time": "20 mins",
@@ -333,6 +343,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642589104/developer/gas-book-version-2/Egg%20Samosa%20Recipe-2.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Egg Samosa Recipe",
         "description": "This samosa recipe is stuffed with a masala mixture of carrots, potatoes and eggs, making it crispy on the outside and soft on the inside.",
         "cook_time": "30 mins",
@@ -370,6 +381,7 @@
             "https://res.cloudinary.com/trendbrains/image/upload/v1642589605/developer/gas-book-version-2/Bread%20Dahi%20Chaat-3.jpg"
         ],
         "video": "",
+        "affiliate": "",
         "title": "Bread Dahi Chaat Recipe",
         "description": "We bring you an easy and delicious recipe of bread Dahi chaat! As the name suggests, this chaat is made with a mix of crispy bread, and the classic flavours of chaat to give you a zing in the taste!",
         "cook_time": "20 mins",
