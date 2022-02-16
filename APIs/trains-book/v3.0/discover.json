@@ -1,92 +1,5 @@
 ﻿[
   {
-    "title": "Shirdi",
-    "location": "Maharashtra",
-    "country": "India",
-    "rate": 4.4,
-    "weather": "21° C",
-    "tagline": "The land of Sai Baba",
-    "short_description": "Located at a distance of 122 Km from Nasik in the Ahmednagar district of Maharashtra, Shirdi is the home of Sai Baba. It is believed that Sai Baba arrived at Shirdi in 1858 and spent 60 years of his life here until he attained salvation in 1918. Sai Baba is popularly known as the 'child of God', as he always spread the message of universal brotherhood.",
-    "long_description": "Apart from his shrine, there are many small temples in the complex, such as Chavadi, Samadhi Mandir, Dwarkamai. Shani Shignapur is located at a distance of 72km from Shirdi.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255959/developer/trains-book-version-3/Shirdi-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255976/developer/trains-book-version-3/Shirdi-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255996/developer/trains-book-version-3/Shirdi-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639256018/developer/trains-book-version-3/Shirdi-4.jpg"
-    ],
-    "video": ""
-  },
-  {
-    "title": "Jog Falls",
-    "location": "Karnataka",
-    "country": "India",
-    "rate": 4.3,
-    "weather": "25° C",
-    "tagline": "Second Highest Waterfall in India",
-    "short_description": "The second-highest plunge waterfall in India, Jog Falls is a major tourist attraction in Karnataka and is the highest waterfall in the state. Second, to the Nohkalikai Falls of Meghalaya, Jog falls drops about a huge 253 m (850 ft. ) in a single fall. However, due to the construction of Linganamakki Dam which is a hydroelectricity plant closeby, the flow in the falls is hugely restricted before monsoons. So, it is best to go during the Monsoon season to see the falls in its full form.",
-    "long_description": "Jog Falls is a 2 hours drive from the main Shimoga city. Also known as Gerosappa Falls or the Joga Falls, this seasonal waterfall is broken into four segments - Raja, Roarer, Rocket and Rani. They're named based on certain characteristics of the streams. Raja is an unbroken stream, Roarer is a strong and violent current that gushes down to meet the Raja stream, Rocket flows down in different jets and Rani is a quiet stream with falls in foam. Next time you visit, try identifying the streams!",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288045/developer/trains-book-version-3/Jog%20Falls-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288068/developer/trains-book-version-3/Jog%20Falls-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288135/developer/trains-book-version-3/Jog%20Falls-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288164/developer/trains-book-version-3/Jog%20Falls-4.jpg"
-    ],
-    "video": ""
-  },
-  {
-    "title": "Chandigarh",
-    "location": "Union Territory",
-    "country": "India",
-    "rate": 4.2,
-    "weather": "11° C",
-    "tagline": "India's first planned city",
-    "short_description": "Chandigarh is a union territory that is the capital of both Punjab, as well as, Haryana. India's first planned city, Chandigarh is traditionally a Punjabi city at heart with a healthy dose of modernity; Chandigarh's food and gedi culture (a leisure drive or ride the city) is what the capital is known for! Located at a distance of 265 km from Delhi, Chandigarh is one of the popular weekend road trip destinations and other major cities but also acts as an important staging point when one heads to destinations in Himachal Pradesh and Jammu and Kashmir.",
-    "long_description": "A favourite activity of the locals at Chandigarh is boating at the beautiful Sukhna Lake. However, the other important attractions in the city are the Rock Garden, the Leisure Valley & Rose Garden. Chandigarh's Rock Garden is very well known for being entirely designed out of discarded industrial and urban waste, while the Leisure Valley is an 8-kilometre-long well-maintained park which houses Asia's most extensive rose garden, a very popular draw among tourists and locals alike.Another famous place to visit in Chandigarh is the Capitol complex, often referred to as Le Corbusier Centre. Earlier used as Le Corbusier's base, this UNESCO World Heritage Site has now been converted into a museum, and tourists are free to visit it. The Capitol is also home to the state's Vidhan Sabha, High Court, and Secretariat.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639256155/developer/trains-book-version-3/Chandigarh-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639256216/developer/trains-book-version-3/Chandigarh-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639256180/developer/trains-book-version-3/Chandigarh-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639256330/developer/trains-book-version-3/Chandigarh-4.jpg"
-    ],
-    "video": ""
-  },
-  {
-    "title": "Jammu",
-    "location": "Jammu & Kashmir",
-    "country": "India",
-    "rate": 4.1,
-    "weather": "11° C",
-    "tagline": "City of Temples",
-    "short_description": "Jammu is the southernmost-part of the union territory of Jammu and Kashmir which sits proudly on the magnificent Shivalik mountain ranges. The Winter Capital of Kashmir, Jammu is a holy and peaceful city known for its majestic temples, religious shrines, glittering shikhars, and cultural heritage. Since it is also the starting point to the hugely popular Vaishno Devi Temple and Amarnath Yatra, it is visited by tourists from far and wide.",
-    "long_description": "Nestled against the backdrop of the snow-capped Pir Panjal Mountains, Jammu forms part of the transition between the Himalayan range in the north and the dusty plains of Punjab in the south. The Shivalik hills cut across the area from the east to the west while the rivers Ravi, Tawi and Chenab cut their way through the region. The City of Temples, Jammu houses the famous Maha Kali Temple which is considered second only to the Vaishno Devi Temple. Originally found in 14th Century BC, the area was ruled over by Dogra dynasty in the pre-independence era. Buddhist Stupas dating back to the 2nd century AD is peppered throughout Jammu, speaking volumes of its rich heritage.The eccentricity of Jammu is prevalent is also prevalent in its Dogra cuisine the crown of which is the scrumptious Wazwan (traditional Kashmiri buffet). Jammu is truly a melange of pilgrimage, leisure, natural beauty and heritage.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639588518/developer/trains-book-version-3/Jammu-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639588538/developer/trains-book-version-3/Jammu-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639588501/developer/trains-book-version-3/Jammu-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639588557/developer/trains-book-version-3/Jammu-4.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639588635/developer/trains-book-version-3/Jammu-5.jpg"
-    ],
-    "video": ""
-  },
-  {
-    "title": "Jaipur",
-    "location": "Rajasthan",
-    "country": "India",
-    "rate": 4.4,
-    "weather": "14° C",
-    "tagline": "The Pink City",
-    "short_description": "Also called the Pink City, Jaipur is the capital of the royal state of Rajasthan. Along with Delhi and Agra, Jaipur forms the Golden Triangle and hails as one of the most famous tourist circuits in the country.",
-    "long_description": "Rajputs ruled Jaipur for many centuries and developed as a planned city in the 17th century AD. With the old city surrounded by walls and gates decorated with drawings on the backdrop of a beautiful pink hue, Jaipur, the pink city, successfully retains its old-world charm. Home to a few UNESCO World Heritage sites, including Amer Fort and Jantar Mantar, Jaipur holds many magnificent forts, palaces, temples and museums and brims with bustling local bazaars where you can shop to your heart's content. The city is also very well known for its local food, and the most famous dishes include the Ghewar, Pyaaz Kachori and Dal Baati Churma. The city also hosts the Jaipur Literary Festival, which is Asia's biggest festival of its kind.One of the largest cities in India, Jaipur is also home to all the modern amenities with some of the most exotic hotels and resorts in the world. The city boasts an international airport and is also very well connected by rail and road. The metro, local buses, shared tuk-tuks, auto-rickshaws and taxi aggregator apps, including Uber and Ola, solve the commute problem in the city quite comfortably.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255504/developer/trains-book-version-3/Jaipur-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255543/developer/trains-book-version-3/Jaipur-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255577/developer/trains-book-version-3/Jaipur-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255589/developer/trains-book-version-3/Jaipur-4.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255603/developer/trains-book-version-3/Jaipur-5.jpg"
-    ],
-    "video": ""
-  },
-  {
     "title": "Nashik",
     "location": "Maharashtra",
     "country": "India",
@@ -270,6 +183,93 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639290128/developer/trains-book-version-3/Kolkata-2.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639290343/developer/trains-book-version-3/Kolkata-3.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639290398/developer/trains-book-version-3/Kolkata-4.jpg"
+    ],
+    "video": ""
+  },
+  {
+    "title": "Shirdi",
+    "location": "Maharashtra",
+    "country": "India",
+    "rate": 4.4,
+    "weather": "21° C",
+    "tagline": "The land of Sai Baba",
+    "short_description": "Located at a distance of 122 Km from Nasik in the Ahmednagar district of Maharashtra, Shirdi is the home of Sai Baba. It is believed that Sai Baba arrived at Shirdi in 1858 and spent 60 years of his life here until he attained salvation in 1918. Sai Baba is popularly known as the 'child of God', as he always spread the message of universal brotherhood.",
+    "long_description": "Apart from his shrine, there are many small temples in the complex, such as Chavadi, Samadhi Mandir, Dwarkamai. Shani Shignapur is located at a distance of 72km from Shirdi.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255959/developer/trains-book-version-3/Shirdi-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255976/developer/trains-book-version-3/Shirdi-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255996/developer/trains-book-version-3/Shirdi-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639256018/developer/trains-book-version-3/Shirdi-4.jpg"
+    ],
+    "video": ""
+  },
+  {
+    "title": "Jog Falls",
+    "location": "Karnataka",
+    "country": "India",
+    "rate": 4.3,
+    "weather": "25° C",
+    "tagline": "Second Highest Waterfall in India",
+    "short_description": "The second-highest plunge waterfall in India, Jog Falls is a major tourist attraction in Karnataka and is the highest waterfall in the state. Second, to the Nohkalikai Falls of Meghalaya, Jog falls drops about a huge 253 m (850 ft. ) in a single fall. However, due to the construction of Linganamakki Dam which is a hydroelectricity plant closeby, the flow in the falls is hugely restricted before monsoons. So, it is best to go during the Monsoon season to see the falls in its full form.",
+    "long_description": "Jog Falls is a 2 hours drive from the main Shimoga city. Also known as Gerosappa Falls or the Joga Falls, this seasonal waterfall is broken into four segments - Raja, Roarer, Rocket and Rani. They're named based on certain characteristics of the streams. Raja is an unbroken stream, Roarer is a strong and violent current that gushes down to meet the Raja stream, Rocket flows down in different jets and Rani is a quiet stream with falls in foam. Next time you visit, try identifying the streams!",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288045/developer/trains-book-version-3/Jog%20Falls-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288068/developer/trains-book-version-3/Jog%20Falls-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288135/developer/trains-book-version-3/Jog%20Falls-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288164/developer/trains-book-version-3/Jog%20Falls-4.jpg"
+    ],
+    "video": ""
+  },
+  {
+    "title": "Chandigarh",
+    "location": "Union Territory",
+    "country": "India",
+    "rate": 4.2,
+    "weather": "11° C",
+    "tagline": "India's first planned city",
+    "short_description": "Chandigarh is a union territory that is the capital of both Punjab, as well as, Haryana. India's first planned city, Chandigarh is traditionally a Punjabi city at heart with a healthy dose of modernity; Chandigarh's food and gedi culture (a leisure drive or ride the city) is what the capital is known for! Located at a distance of 265 km from Delhi, Chandigarh is one of the popular weekend road trip destinations and other major cities but also acts as an important staging point when one heads to destinations in Himachal Pradesh and Jammu and Kashmir.",
+    "long_description": "A favourite activity of the locals at Chandigarh is boating at the beautiful Sukhna Lake. However, the other important attractions in the city are the Rock Garden, the Leisure Valley & Rose Garden. Chandigarh's Rock Garden is very well known for being entirely designed out of discarded industrial and urban waste, while the Leisure Valley is an 8-kilometre-long well-maintained park which houses Asia's most extensive rose garden, a very popular draw among tourists and locals alike.Another famous place to visit in Chandigarh is the Capitol complex, often referred to as Le Corbusier Centre. Earlier used as Le Corbusier's base, this UNESCO World Heritage Site has now been converted into a museum, and tourists are free to visit it. The Capitol is also home to the state's Vidhan Sabha, High Court, and Secretariat.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639256155/developer/trains-book-version-3/Chandigarh-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639256216/developer/trains-book-version-3/Chandigarh-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639256180/developer/trains-book-version-3/Chandigarh-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639256330/developer/trains-book-version-3/Chandigarh-4.jpg"
+    ],
+    "video": ""
+  },
+  {
+    "title": "Jammu",
+    "location": "Jammu & Kashmir",
+    "country": "India",
+    "rate": 4.1,
+    "weather": "11° C",
+    "tagline": "City of Temples",
+    "short_description": "Jammu is the southernmost-part of the union territory of Jammu and Kashmir which sits proudly on the magnificent Shivalik mountain ranges. The Winter Capital of Kashmir, Jammu is a holy and peaceful city known for its majestic temples, religious shrines, glittering shikhars, and cultural heritage. Since it is also the starting point to the hugely popular Vaishno Devi Temple and Amarnath Yatra, it is visited by tourists from far and wide.",
+    "long_description": "Nestled against the backdrop of the snow-capped Pir Panjal Mountains, Jammu forms part of the transition between the Himalayan range in the north and the dusty plains of Punjab in the south. The Shivalik hills cut across the area from the east to the west while the rivers Ravi, Tawi and Chenab cut their way through the region. The City of Temples, Jammu houses the famous Maha Kali Temple which is considered second only to the Vaishno Devi Temple. Originally found in 14th Century BC, the area was ruled over by Dogra dynasty in the pre-independence era. Buddhist Stupas dating back to the 2nd century AD is peppered throughout Jammu, speaking volumes of its rich heritage.The eccentricity of Jammu is prevalent is also prevalent in its Dogra cuisine the crown of which is the scrumptious Wazwan (traditional Kashmiri buffet). Jammu is truly a melange of pilgrimage, leisure, natural beauty and heritage.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588518/developer/trains-book-version-3/Jammu-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588538/developer/trains-book-version-3/Jammu-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588501/developer/trains-book-version-3/Jammu-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588557/developer/trains-book-version-3/Jammu-4.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639588635/developer/trains-book-version-3/Jammu-5.jpg"
+    ],
+    "video": ""
+  },
+  {
+    "title": "Jaipur",
+    "location": "Rajasthan",
+    "country": "India",
+    "rate": 4.4,
+    "weather": "14° C",
+    "tagline": "The Pink City",
+    "short_description": "Also called the Pink City, Jaipur is the capital of the royal state of Rajasthan. Along with Delhi and Agra, Jaipur forms the Golden Triangle and hails as one of the most famous tourist circuits in the country.",
+    "long_description": "Rajputs ruled Jaipur for many centuries and developed as a planned city in the 17th century AD. With the old city surrounded by walls and gates decorated with drawings on the backdrop of a beautiful pink hue, Jaipur, the pink city, successfully retains its old-world charm. Home to a few UNESCO World Heritage sites, including Amer Fort and Jantar Mantar, Jaipur holds many magnificent forts, palaces, temples and museums and brims with bustling local bazaars where you can shop to your heart's content. The city is also very well known for its local food, and the most famous dishes include the Ghewar, Pyaaz Kachori and Dal Baati Churma. The city also hosts the Jaipur Literary Festival, which is Asia's biggest festival of its kind.One of the largest cities in India, Jaipur is also home to all the modern amenities with some of the most exotic hotels and resorts in the world. The city boasts an international airport and is also very well connected by rail and road. The metro, local buses, shared tuk-tuks, auto-rickshaws and taxi aggregator apps, including Uber and Ola, solve the commute problem in the city quite comfortably.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255504/developer/trains-book-version-3/Jaipur-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255543/developer/trains-book-version-3/Jaipur-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255577/developer/trains-book-version-3/Jaipur-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255589/developer/trains-book-version-3/Jaipur-4.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255603/developer/trains-book-version-3/Jaipur-5.jpg"
     ],
     "video": ""
   },

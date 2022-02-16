@@ -1,5 +1,77 @@
 ﻿[
   {
+    "title": "Jim Corbett National Park",
+    "location": "Uttarakhand",
+    "country": "India",
+    "rate": 4,
+    "weather": "11° C",
+    "tagline": "Home to the Royal Bengal Tiger",
+    "short_description": "Jim Corbett National Park is the oldest national park set amidst the foothills of the Himalayas in the Nainital district of Uttarakhand. Known for housing the endangered Bengal tiger, Corbett National Park is part of the larger Corbett Tiger Reserve.",
+    "long_description": "Famous for its wildlife safaris, Jim Corbett National Park has multiple resorts set on the riverside. Home to more than 650 species of rare and migratory birds, it is a haven for bird watchers. The most popular attraction at Corbett National Park is Dhikala, a forest lodge located on the border of Patil Dun Valley, which is known for the stunning location and rich wildlife.Only 180 vehicles are allowed to enter the national park in a day. Jim Corbett National Park remains closed from July to October during the monsoons. However, Jhirna, Dhela and Sitabani tourism zones remain open for tourists throughout the year. Safaris are organised in all the zones by two shifts by the forest officials in all the zones.The Jim Corbett National Park was established in 1936 as Hailey National Park and is named after Jim Corbett who is a famous hunter and naturalist. It was the first place where Project Tiger was launched in 1973. The park is spread over an area of more than 500 sq km and is divided into 5 zones: Bijrani, Dhikala, Jhirna, Domunda and Sonanandi to promote tourism.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255670/developer/trains-book-version-3/Jim%20Corbett%20National%20Park-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255688/developer/trains-book-version-3/Jim%20Corbett%20National%20Park-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639255704/developer/trains-book-version-3/Jim%20Corbett%20National%20Park-3.jpg"
+    ],
+    "video": "",
+    "affiliate": ""
+  },
+  {
+    "title": "Visakhapatnam",
+    "location": "Andhra Pradesh",
+    "country": "India",
+    "rate": 4.4,
+    "weather": "24° C",
+    "tagline": "A gem of South India",
+    "short_description": "Visakhapatnam, also commonly known as Vizag, is one of the oldest port cities in the country. Situated in the heart of Andhra Pradesh, Visakhapatnam is known for its picturesque beaches and serene landscape, as well as a rich cultural past. The port of Visakhapatnam is renowned for being home to the oldest shipyard in all of India. Located a short distance away from Visakhapatnam is Araku Valley, one of the prime attractions of Vizag. Situated at a lofty 910 metres above sea level, Araku Valley is a hill station replete with gushing waterfalls, crystal clear streams, lush green gardens and some challenging trekking trails.",
+    "long_description": "Vizag is dotted with many beaches along its coastline, with the most famous one being the Yarada Beach. One of the most stunning places to see in all of Visakhapatnam, Yarada beach is surrounded by majestic hills on three sides, and by the Bay of Bengal on the other side. One of the best things about Vizag’s beaches is that they are a lot cleaner and a lot less crowded than other famous beaches along the Indian coastline, and Yarada beach is no exception. It is the perfect place to sit back on the golden sands and witness a marvellous sunrise or sunset. If you’re a history lover, the Borra Caves are one of the best tourist attractions that Vizag has to offer for you. Nestled amidst the Ananthagiri Hills in Araku Valley, the Borra Caves are over thousands of years old and are the biggest among all the caves found in India. Made entirely of natural karstic limestone, the caves are kaleidoscopic in nature, and the light falling on the rocks coupled with the waterfalls creates an extremely colourful effect, lending an aura of magic and mysticism to the entire ambience. The Katiki Waterfalls, situated a short distance away from the Borra Caves, is a gushing waterfall that measures around 50 feet in height and is completely surrounded by the lush greenery of the valley. The crystal-clear water cascading down the rocks, bordered by the gleaming green foliage is a sight for sore eyes. Being a coastal area, the primary cuisine of Visakhapatnam includes seafood, as well as traditional Andhra South Indian cuisine.  While Visakhapatnam is not exactly renowned for being a shopping destination, you will still find a lot of things that you can take back home. You can purchase a wide variety of stuff starting from handicrafts to Kalamkari paintings to wooden toys to even gorgeous Pochampalli and Ikat sarees.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287529/developer/trains-book-version-3/Visakhapatnam-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287498/developer/trains-book-version-3/Visakhapatnam-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287577/developer/trains-book-version-3/Visakhapatnam-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287715/developer/trains-book-version-3/Visakhapatnam-4.jpg"
+    ],
+    "video": "",
+    "affiliate": ""
+  },
+  {
+    "title": "Udaipur",
+    "location": "Rajasthan",
+    "country": "India",
+    "rate": 4.3,
+    "weather": "15° C",
+    "tagline": "The city of Lakes",
+    "short_description": "Udaipur, also known as the City of Lakes, is a popular tourist destination state of Rajasthan. It is surrounded by the beautiful Aravalli Hills in all directions, this 'Venice of the East has mesmerising temples and breathtaking Mewar architecture in the backdrop of lakes which makes it a must-visit destination in India.  A boat ride through the serene waters of Lake Pichola will be enough to prove to you why Udaipur is the pride of Rajasthan.",
+    "long_description": "Located in a valley and surrounded by four lakes, Udaipur justifies all names ever offered to its charm from 'Jewel of Mewar' to 'Venice of the East'. The Lake Palace hotel is something that offers the city a visual definition. The revered Nathdwara temple is about 60 km from Udaipur.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287929/developer/trains-book-version-3/Udaipur-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287851/developer/trains-book-version-3/Udaipur-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287883/developer/trains-book-version-3/Udaipur-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287949/developer/trains-book-version-3/Udaipur-4.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639287971/developer/trains-book-version-3/Udaipur-5.jpg"
+    ],
+    "video": "",
+    "affiliate": "https://app.affiliatics.com/redirect/af61f4208ed56ca4.24778520"
+  },
+  {
+    "title": "Varanasi",
+    "location": "Uttar Pradesh",
+    "country": "India",
+    "rate": 4.4,
+    "weather": "14° C",
+    "tagline": "The Spiritual Capital of India",
+    "short_description": "World's oldest living city, Varanasi - also known as Kashi (City of Life) and Benaras, is the spiritual capital of India. It is one of Hinduism's seven holy cities. The old city of Varanasi lies along the western banks of the Ganges, spread across a labyrinth of narrow galis. Be prepared to walk on foot and encounter some holy cows! Temples at almost every turn engulf Varanasi but the Kashi Vishwanath Temple is the most visited and the oldest of the lot. Benaras is known as the city of Lord Shiva for a reason, and rightfully so.",
+    "long_description": "Varanasi is considered an auspicious place to die, as it is believed to grant moksha or liberation from the cycle of life and death. Spiritually enlightening, the heart of the city pulsates around the ghats, about 80 of which border the Ganges. Be prepared for the sights, sounds and smells! Don't miss out on the hot chaat and cool lassi. Though, all chaos and noise on the ghats take a pause before dusk when the Ganga Aarti begins to take place, a ceremony of immense grandeur. This divine city is also an important destination for Buddhists. Gautam Buddha preached his first sermon in Benaras, a part which is now in Sarnath.",
+    "gallery": [
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288288/developer/trains-book-version-3/Varanasi-1.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288320/developer/trains-book-version-3/Varanasi-2.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288353/developer/trains-book-version-3/Varanasi-3.jpg",
+      "https://res.cloudinary.com/trendbrains/image/upload/v1639288390/developer/trains-book-version-3/Varanasi-4.jpg"
+    ],
+    "video": "",
+    "affiliate": ""
+  },
+  {
     "title": "Shimla",
     "location": "Himachal Pradesh",
     "country": "India",
@@ -233,78 +305,6 @@
       "https://res.cloudinary.com/trendbrains/image/upload/v1639287308/developer/trains-book-version-3/Kovalam-2.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639287333/developer/trains-book-version-3/Kovalam-3.jpg",
       "https://res.cloudinary.com/trendbrains/image/upload/v1639287404/developer/trains-book-version-3/Kovalam-4.jpg"
-    ],
-    "video": "",
-    "affiliate": ""
-  },
-  {
-    "title": "Jim Corbett National Park",
-    "location": "Uttarakhand",
-    "country": "India",
-    "rate": 4,
-    "weather": "11° C",
-    "tagline": "Home to the Royal Bengal Tiger",
-    "short_description": "Jim Corbett National Park is the oldest national park set amidst the foothills of the Himalayas in the Nainital district of Uttarakhand. Known for housing the endangered Bengal tiger, Corbett National Park is part of the larger Corbett Tiger Reserve.",
-    "long_description": "Famous for its wildlife safaris, Jim Corbett National Park has multiple resorts set on the riverside. Home to more than 650 species of rare and migratory birds, it is a haven for bird watchers. The most popular attraction at Corbett National Park is Dhikala, a forest lodge located on the border of Patil Dun Valley, which is known for the stunning location and rich wildlife.Only 180 vehicles are allowed to enter the national park in a day. Jim Corbett National Park remains closed from July to October during the monsoons. However, Jhirna, Dhela and Sitabani tourism zones remain open for tourists throughout the year. Safaris are organised in all the zones by two shifts by the forest officials in all the zones.The Jim Corbett National Park was established in 1936 as Hailey National Park and is named after Jim Corbett who is a famous hunter and naturalist. It was the first place where Project Tiger was launched in 1973. The park is spread over an area of more than 500 sq km and is divided into 5 zones: Bijrani, Dhikala, Jhirna, Domunda and Sonanandi to promote tourism.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255670/developer/trains-book-version-3/Jim%20Corbett%20National%20Park-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255688/developer/trains-book-version-3/Jim%20Corbett%20National%20Park-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639255704/developer/trains-book-version-3/Jim%20Corbett%20National%20Park-3.jpg"
-    ],
-    "video": "",
-    "affiliate": ""
-  },
-  {
-    "title": "Visakhapatnam",
-    "location": "Andhra Pradesh",
-    "country": "India",
-    "rate": 4.4,
-    "weather": "24° C",
-    "tagline": "A gem of South India",
-    "short_description": "Visakhapatnam, also commonly known as Vizag, is one of the oldest port cities in the country. Situated in the heart of Andhra Pradesh, Visakhapatnam is known for its picturesque beaches and serene landscape, as well as a rich cultural past. The port of Visakhapatnam is renowned for being home to the oldest shipyard in all of India. Located a short distance away from Visakhapatnam is Araku Valley, one of the prime attractions of Vizag. Situated at a lofty 910 metres above sea level, Araku Valley is a hill station replete with gushing waterfalls, crystal clear streams, lush green gardens and some challenging trekking trails.",
-    "long_description": "Vizag is dotted with many beaches along its coastline, with the most famous one being the Yarada Beach. One of the most stunning places to see in all of Visakhapatnam, Yarada beach is surrounded by majestic hills on three sides, and by the Bay of Bengal on the other side. One of the best things about Vizag’s beaches is that they are a lot cleaner and a lot less crowded than other famous beaches along the Indian coastline, and Yarada beach is no exception. It is the perfect place to sit back on the golden sands and witness a marvellous sunrise or sunset. If you’re a history lover, the Borra Caves are one of the best tourist attractions that Vizag has to offer for you. Nestled amidst the Ananthagiri Hills in Araku Valley, the Borra Caves are over thousands of years old and are the biggest among all the caves found in India. Made entirely of natural karstic limestone, the caves are kaleidoscopic in nature, and the light falling on the rocks coupled with the waterfalls creates an extremely colourful effect, lending an aura of magic and mysticism to the entire ambience. The Katiki Waterfalls, situated a short distance away from the Borra Caves, is a gushing waterfall that measures around 50 feet in height and is completely surrounded by the lush greenery of the valley. The crystal-clear water cascading down the rocks, bordered by the gleaming green foliage is a sight for sore eyes. Being a coastal area, the primary cuisine of Visakhapatnam includes seafood, as well as traditional Andhra South Indian cuisine.  While Visakhapatnam is not exactly renowned for being a shopping destination, you will still find a lot of things that you can take back home. You can purchase a wide variety of stuff starting from handicrafts to Kalamkari paintings to wooden toys to even gorgeous Pochampalli and Ikat sarees.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287529/developer/trains-book-version-3/Visakhapatnam-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287498/developer/trains-book-version-3/Visakhapatnam-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287577/developer/trains-book-version-3/Visakhapatnam-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287715/developer/trains-book-version-3/Visakhapatnam-4.jpg"
-    ],
-    "video": "",
-    "affiliate": ""
-  },
-  {
-    "title": "Udaipur",
-    "location": "Rajasthan",
-    "country": "India",
-    "rate": 4.3,
-    "weather": "15° C",
-    "tagline": "The city of Lakes",
-    "short_description": "Udaipur, also known as the City of Lakes, is a popular tourist destination state of Rajasthan. It is surrounded by the beautiful Aravalli Hills in all directions, this 'Venice of the East has mesmerising temples and breathtaking Mewar architecture in the backdrop of lakes which makes it a must-visit destination in India.  A boat ride through the serene waters of Lake Pichola will be enough to prove to you why Udaipur is the pride of Rajasthan.",
-    "long_description": "Located in a valley and surrounded by four lakes, Udaipur justifies all names ever offered to its charm from 'Jewel of Mewar' to 'Venice of the East'. The Lake Palace hotel is something that offers the city a visual definition. The revered Nathdwara temple is about 60 km from Udaipur.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287929/developer/trains-book-version-3/Udaipur-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287851/developer/trains-book-version-3/Udaipur-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287883/developer/trains-book-version-3/Udaipur-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287949/developer/trains-book-version-3/Udaipur-4.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639287971/developer/trains-book-version-3/Udaipur-5.jpg"
-    ],
-    "video": "",
-    "affiliate": "https://app.affiliatics.com/redirect/af61f4208ed56ca4.24778520"
-  },
-  {
-    "title": "Varanasi",
-    "location": "Uttar Pradesh",
-    "country": "India",
-    "rate": 4.4,
-    "weather": "14° C",
-    "tagline": "The Spiritual Capital of India",
-    "short_description": "World's oldest living city, Varanasi - also known as Kashi (City of Life) and Benaras, is the spiritual capital of India. It is one of Hinduism's seven holy cities. The old city of Varanasi lies along the western banks of the Ganges, spread across a labyrinth of narrow galis. Be prepared to walk on foot and encounter some holy cows! Temples at almost every turn engulf Varanasi but the Kashi Vishwanath Temple is the most visited and the oldest of the lot. Benaras is known as the city of Lord Shiva for a reason, and rightfully so.",
-    "long_description": "Varanasi is considered an auspicious place to die, as it is believed to grant moksha or liberation from the cycle of life and death. Spiritually enlightening, the heart of the city pulsates around the ghats, about 80 of which border the Ganges. Be prepared for the sights, sounds and smells! Don't miss out on the hot chaat and cool lassi. Though, all chaos and noise on the ghats take a pause before dusk when the Ganga Aarti begins to take place, a ceremony of immense grandeur. This divine city is also an important destination for Buddhists. Gautam Buddha preached his first sermon in Benaras, a part which is now in Sarnath.",
-    "gallery": [
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288288/developer/trains-book-version-3/Varanasi-1.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288320/developer/trains-book-version-3/Varanasi-2.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288353/developer/trains-book-version-3/Varanasi-3.jpg",
-      "https://res.cloudinary.com/trendbrains/image/upload/v1639288390/developer/trains-book-version-3/Varanasi-4.jpg"
     ],
     "video": "",
     "affiliate": ""
