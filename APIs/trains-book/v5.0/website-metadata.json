@@ -26,5 +26,19 @@
     "brand_name":"OYO Rooms",
     "brand_details":"Stay safe at Sanitised budget hotels in over 230 cities, each available with standardized AC Rooms, Breakfast, LED TV, Wi-Fi, and Hygienic Washrooms.",
     "brand_phone_number":"+919313931393"
+  },
+  {
+    "id":4,
+    "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/v1655441328/train-book/services/pnr_entry_zrsuch.svg",
+    "brand_name":"PNR Status",
+    "brand_details":"The PNR number consists of 10 digits , where the first 3 digits specify the PRS (Passenger Reservation System) from which the ticket is booked.",
+    "brand_phone_number":"+919945600000"
+  },
+  {
+    "id":5,
+    "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/v1655441328/train-book/services/lts_entry_ino6rd.svg",
+    "brand_name":"Live Status",
+    "brand_details":"Indian railway running status - Get Accurate Real Time Live Train Status - National Train Enquiry System (NTES) Online.",
+    "brand_phone_number":""
   }
 ]
