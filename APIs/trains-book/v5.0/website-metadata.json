@@ -29,14 +29,14 @@
   },
   {
     "id":4,
-    "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/v1655441328/train-book/services/pnr_entry_zrsuch.svg",
+    "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/v1655442090/train-book/services/pnr_entry.png",
     "brand_name":"PNR Status",
     "brand_details":"The PNR number consists of 10 digits , where the first 3 digits specify the PRS (Passenger Reservation System) from which the ticket is booked.",
-    "brand_phone_number":"+919945600000"
+    "brand_phone_number":""
   },
   {
     "id":5,
-    "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/v1655441328/train-book/services/lts_entry_ino6rd.svg",
+    "brand_icon":"https://res.cloudinary.com/trendbrains/image/upload/v1655442090/train-book/services/lts_entry.png",
     "brand_name":"Live Status",
     "brand_details":"Indian railway running status - Get Accurate Real Time Live Train Status - National Train Enquiry System (NTES) Online.",
     "brand_phone_number":""
